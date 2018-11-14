@@ -1,4 +1,4 @@
-# json-server-extension
+# json-server-extension & fake.js
 
 json-server is great for stub server usage
 but in my opinion there where some caveat that i tried to solve in this package
