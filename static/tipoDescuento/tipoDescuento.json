@@ -1,0 +1,172 @@
+{
+  "tipoDescuento": [
+    {
+      "id": 1,
+      "nombre": "A FAVOR DE SUAREZ"
+    },
+    {
+      "id": 2,
+      "nombre": "ACTIVIDAD"
+    },
+    {
+      "id": 3,
+      "nombre": "ADELANTO ANIVERSARIO"
+    },
+    {
+      "id": 4,
+      "nombre": "ADELANTO DE QUINCENA "
+    },
+    {
+      "id": 5,
+      "nombre": "ARTEFACTOS CADENAS"
+    },
+    {
+      "id": 6,
+      "nombre": "ASISTENCIA"
+    },
+    {
+      "id": 7,
+      "nombre": "CAFETERIA"
+    },
+    {
+      "id": 8,
+      "nombre": "CAMPEONATO DE VOLEY"
+    },
+    {
+      "id": 9,
+      "nombre": "CARGO TIM"
+    },
+    {
+      "id": 10,
+      "nombre": "CASACA"
+    },
+    {
+      "id": 11,
+      "nombre": "CLARO"
+    },
+    {
+      "id": 12,
+      "nombre": "COLABORACION"
+    },
+    {
+      "id": 13,
+      "nombre": "CURSO"
+    },
+    {
+      "id": 14,
+      "nombre": "DESC. ESTRATEGICO"
+    },
+    {
+      "id": 15,
+      "nombre": "FONDO PENSION"
+    },
+    {
+      "id": 16,
+      "nombre": "FUTBOL"
+    },
+    {
+      "id": 17,
+      "nombre": "GRATIFICACION DICIEMBRE"
+    },
+    {
+      "id": 18,
+      "nombre": "GRATIFICACION JULIO"
+    },
+    {
+      "id": 19,
+      "nombre": "HORAS EXTRAS"
+    },
+    {
+      "id": 20,
+      "nombre": "JUNTA"
+    },
+    {
+      "id": 21,
+      "nombre": "LIBRERIA"
+    },
+    {
+      "id": 22,
+      "nombre": "LIBRO"
+    },
+    {
+      "id": 23,
+      "nombre": "LIQUIDACION"
+    },
+    {
+      "id": 24,
+      "nombre": "MOVISTAR"
+    },
+    {
+      "id": 25,
+      "nombre": "NEGATIVO DEL MES ANTERIOR"
+    },
+    {
+      "id": 26,
+      "nombre": "OTROS ADELANTOS"
+    },
+    {
+      "id": 27,
+      "nombre": "OTROS DESC. POR CUADRE"
+    },
+    {
+      "id": 28,
+      "nombre": "OTROS DESCUENTOS"
+    },
+    {
+      "id": 29,
+      "nombre": "OTROS PAGOS POR CUADRE"
+    },
+    {
+      "id": 30,
+      "nombre": "PAGO ADICIONAL"
+    },
+    {
+      "id": 31,
+      "nombre": "PENSION"
+    },
+    {
+      "id": 32,
+      "nombre": "POLO"
+    },
+    {
+      "id": 33,
+      "nombre": "PRESTAMO"
+    },
+    {
+      "id": 34,
+      "nombre": "RENTA DE TRABAJO"
+    },
+    {
+      "id": 35,
+      "nombre": "RETENCION JUDICIAL"
+    },
+    {
+      "id": 36,
+      "nombre": "REUNION DE PLANA"
+    },
+    {
+      "id": 37,
+      "nombre": "REUNION GENERAL"
+    },
+    {
+      "id": 38,
+      "nombre": "SUBSIDIOS"
+    },
+    {
+      "id": 39,
+      "nombre": "UNIFORME"
+    },
+    {
+      "id": 40,
+      "nombre": "UNIFORME ESCOLAR"
+    },
+    {
+      "id": 41,
+      "nombre": "VAC UTILES"
+    },
+    {
+      "id": 42,
+      "nombre": "VACACIONES"
+    }
+  ]
+}

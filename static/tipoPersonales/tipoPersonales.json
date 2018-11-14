@@ -1,0 +1,16 @@
+{
+	"tipoPersonales": [
+		{
+			"id": 1,
+			"descripcion": "ADMINISTRATIVOS"
+		},
+		{
+			"id": 2,
+			"descripcion": "PROFESORES POR HORAS"
+		},
+		{
+			"id": 3,
+			"descripcion": "POLICIAS"
+		}
+	]
+}

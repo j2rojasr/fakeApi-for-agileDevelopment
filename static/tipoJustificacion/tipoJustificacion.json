@@ -1,0 +1,19 @@
+{
+	"tipoJustificacion":[
+		{
+			"id": 1,
+			"descripcion": "POR SALUD",
+			"estado": 1
+		},
+		{
+			"id": 2,
+			"descripcion": "OTROS",
+			"estado": 1
+		},
+		{
+			"id": 3,
+			"descripcion": "DESCANSO MÉDICO",
+			"estado": 1
+		}
+	]
+}

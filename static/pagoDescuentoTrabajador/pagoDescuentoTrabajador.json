@@ -1,0 +1,12 @@
+{
+  "pagoDescuentoTrabajador": [
+    {
+      "id": 1,
+      "numero_orden": 1,
+      "motivopago": "TARDANZA",
+      "fechapago": "10-05-2018",
+      "montopago": 70.00,
+      "razonsocial_pago": "ACE SACO OLIVEROS"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+	"sueldoPersonaRS" : [
+		{
+			"id" : 1,
+			"codigo_personal" : 1,
+			"razon_social" : "Apeiron",
+			"sueldo" : 1500,
+			"pago" : 0,
+			"descuento" : 0,
+			"sub_total" : 1500
+		},
+		{
+			"id" : 2,
+			"codigo_personal" : 1,
+			"razon_social" : "Saco Oliveros",
+			"sueldo" : 2500,
+			"pago" : 0,
+			"descuento" : 600,
+			"sub_total" : 1900
+		},
+		{
+			"id" : 3,
+			"codigo_personal" : 2,
+			"razon_social" : "Saco Oliveros",
+			"sueldo" : 1250,
+			"pago" : 0,
+			"descuento" : 44,
+			"sub_total" : 1206
+		},
+		{
+			"id" : 4,
+			"codigo_personal" : 3,
+			"razon_social" : "Sistema Helicoidal",
+			"sueldo" : 1500,
+			"pago" : 0,
+			"descuento" : 15,
+			"sub_total" : 1535
+		},
+		{
+			"id" : 5,
+			"codigo_personal" : 4,
+			"razon_social" : "Apeiron",
+			"sueldo" : 370,
+			"pago" : 0,
+			"descuento" : 0,
+			"sub_total" : 370
+		},
+		{
+			"id" : 6,
+			"codigo_personal" : 4,
+			"razon_social" : "Sistema Helicoidal",
+			"sueldo" : 880,
+			"pago" : 66,
+			"descuento" : 122,
+			"sub_total" : 824
+		},
+		{
+			"id" : 7,
+			"codigo_personal" : 4,
+			"razon_social" : "Saco Oliveros",
+			"sueldo" : 2300,
+			"pago" : 0,
+			"descuento" : 155,
+			"sub_total" : 2145
+		}
+	]
+}

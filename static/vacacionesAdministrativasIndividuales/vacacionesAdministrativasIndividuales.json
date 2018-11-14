@@ -1,0 +1,23 @@
+{
+	"vacacionesAdministrativasIndividuales":[
+		{
+			"id": 1,
+			"trabajador_id": 1,
+			"trabajador_dni": "11112222",
+			"trabajador_nombres": "Guadalupe",
+			"trabajador_apellidos": "Briseño Paredes",
+			"fecha_inicio": "03/01/2018",
+			"fecha_fin": "04/01/2018",
+			"cantidad_dias": 2,
+			"detalle_fechas": [
+				{
+					"fecha": "03/01/2018"
+				},
+				{
+					"fecha": "04/01/2018"
+				}
+			],
+			"estado": 1
+		}
+	]
+}

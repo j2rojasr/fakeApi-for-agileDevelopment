@@ -1,0 +1,11 @@
+{
+	"proyeccion": [
+{"id": 1, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "01/09/2018", "asistencia_entrada": "06:52", "asistencia_salida": "19:27", "fecha_salida": "01/09/2018"},
+{"id": 2, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "02/09/2018", "asistencia_entrada": null, "asistencia_salida": null, "fecha_salida": "02/09/2018"},
+{"id": 3, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "03/09/2018", "asistencia_entrada": null, "asistencia_salida": null, "fecha_salida": "03/09/2018"},
+{"id": 4, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "04/09/2018", "asistencia_entrada": null, "asistencia_salida": null, "fecha_salida": "04/09/2018"},
+{"id": 5, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "05/09/2018", "asistencia_entrada": null, "asistencia_salida": null, "fecha_salida": "05/09/2018"},
+{"id": 6, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "06/09/2018", "asistencia_entrada": null, "asistencia_salida": null, "fecha_salida": "06/09/2018"},
+{"id": 7, "policia_dni": "06239121", "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO", "sede_id": 26, "sede_descripcion": "SORIA", "horario": "07:00 - 17:00", "tiporol_descripcion": "REGULAR", "fecha_entrada": "07/09/2018", "asistencia_entrada": null, "asistencia_salida": null, "fecha_salida": "07/09/2018"}
+]
+}

@@ -1,0 +1,28 @@
+{
+  "fondoPensionesSeguro": [
+    {
+      "id": 1,
+      "nombre": "AFP HORIZONTE"
+    },
+    {
+      "id": 2,
+      "nombre": "AFP INTEGRA"
+    },
+    {
+      "id": 3,
+      "nombre": "AFP PRIMA"
+    },
+    {
+      "id": 4,
+      "nombre": "AFP PROFUTURO"
+    },    
+    {
+      "id": 5,
+      "nombre": "ONP"
+    },
+    {
+      "id": 6,
+      "nombre": "NINGUNO"
+    }
+  ]
+}

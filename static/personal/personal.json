@@ -1,0 +1,136 @@
+{
+    "personal" : [
+  {
+    "id": 1,
+    "numeroDocumento": 68130612,
+    "apellido": "Cross",
+    "nombre": "Mclean ",
+    "codigo_sede": 4,
+    "sede": "CALCA",
+    "codigo_area": 6,
+    "area": "PRESIDENCIA",
+    "codigo_cargo": 4,
+    "cargo": "AJEDREZ"
+  },
+  {
+    "id": 2,
+    "numeroDocumento": 87131679,
+    "apellido": "Malone",
+    "nombre": "Madeline ",
+    "codigo_sede": 3,
+    "sede": "LINCE",
+    "codigo_area": 5,
+    "area": "SECRETARIA",
+    "codigo_cargo": 5,
+    "cargo": "APOYO SOCIAL"
+  },
+  {
+    "id": 3,
+    "numeroDocumento": 18504579,
+    "apellido": "Baker",
+    "nombre": "Jasmine ",
+    "codigo_sede": 5,
+    "sede": "ROSALES",
+    "codigo_area": 3,
+    "area": "LOGISTICA",
+    "codigo_cargo": 4,
+    "cargo": "AJEDREZ"
+  },
+  {
+    "id": 4,
+    "numeroDocumento": 76170025,
+    "apellido": "Curtis",
+    "nombre": "Ewing ",
+    "codigo_sede": 5,
+    "sede": "ROSALES",
+    "codigo_area": 6,
+    "area": "PRESIDENCIA",
+    "codigo_cargo": 3,
+    "cargo": "ADMINISTRADOR"
+  },
+  {
+    "id": 5,
+    "numeroDocumento": 46410094,
+    "apellido": "Russo",
+    "nombre": "Elsie ",
+    "codigo_sede": 1,
+    "sede": "AREQUIPA",
+    "codigo_area": 3,
+    "area": "LOGISTICA",
+    "codigo_cargo": 2,
+    "cargo": "2DO GRADO"
+  },
+  {
+    "id": 6,
+    "numeroDocumento": 77502981,
+    "apellido": "Hernandez",
+    "nombre": "Holman ",
+    "codigo_sede": 4,
+    "sede": "CALCA",
+    "codigo_area": 2,
+    "area": "DIRAGE",
+    "codigo_cargo": 2,
+    "cargo": "2DO GRADO"
+  },
+  {
+    "id": 7,
+    "numeroDocumento": 72669015,
+    "apellido": "Joseph",
+    "nombre": "Fay ",
+    "codigo_sede": 3,
+    "sede": "LINCE",
+    "codigo_area": 6,
+    "area": "PRESIDENCIA",
+    "codigo_cargo": 1,
+    "cargo": "1ER GRADO"
+  },
+  {
+    "id": 8,
+    "numeroDocumento": 56160104,
+    "apellido": "Robles",
+    "nombre": "Elva ",
+    "codigo_sede": 5,
+    "sede": "ROSALES",
+    "codigo_area": 4,
+    "area": "ADMINISTRACION",
+    "codigo_cargo": 2,
+    "cargo": "2DO GRADO"
+  },
+  {
+    "id": 9,
+    "numeroDocumento": 43734347,
+    "apellido": "Bowman",
+    "nombre": "Rhoda ",
+    "codigo_sede": 3,
+    "sede": "LINCE",
+    "codigo_area": 5,
+    "area": "SECRETARIA",
+    "codigo_cargo": 5,
+    "cargo": "APOYO SOCIAL"
+  },
+  {
+    "id": 10,
+    "numeroDocumento": 84589858,
+    "apellido": "Baird",
+    "nombre": "May ",
+    "codigo_sede": 4,
+    "sede": "CALCA",
+    "codigo_area": 2,
+    "area": "DIRAGE",
+    "codigo_cargo": 4,
+    "cargo": "AJEDREZ"
+  },
+  {
+    "id": 11,
+    "numeroDocumento": 41738021,
+    "apellido": "Noble",
+    "nombre": "Romero ",
+    "codigo_sede": 1,
+    "sede": "AREQUIPA",
+    "codigo_area": 4,
+    "area": "ADMINISTRACION",
+    "codigo_cargo": 3,
+    "cargo": "ADMINISTRADOR"
+  }
+]
+}

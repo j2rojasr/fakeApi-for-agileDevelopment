@@ -1,0 +1,169 @@
+{
+	"docenteSeleccionado" : [
+		{			
+			"id" : 1,
+			"fila" : 1,
+			"codigo_docente" : 1,
+			"nombre" : "MARTINEZ CORAL, GUADALUPE MORENA",
+			"codigo_sede" : 4,
+			"sede" : "Calca",
+			"codigo_especialidad" : 1,
+			"especialidad" : "Inicial",
+			"cantidad_horas" : "-"
+		},
+		{			
+			"id" : 2,
+			"fila" : 2,
+			"codigo_docente" : 2,
+			"nombre" : "QUISPE CENEPO, BERNY",
+			"codigo_sede" : 8,
+			"sede" : "6 de Agosto",
+			"codigo_especialidad" : 4,
+			"especialidad" : "Ingles",
+			"cantidad_horas" : 18		
+		},
+		{			
+			"id" : 3,
+			"fila" : 3,
+			"codigo_docente" : 2,
+			"nombre" : "QUISPE CENEPO, BERNY",
+			"codigo_sede" : 5,
+			"sede" : "Rosales",
+			"codigo_especialidad" : 4,
+			"especialidad" : "Ingles",
+			"cantidad_horas" : 18	
+		},
+		{			
+			"id" : 4,
+			"fila" : 4,
+			"codigo_docente" : 3,
+			"nombre" : "SOTO QUISPE, ROSARIO MARIA",
+			"codigo_sede" : 11,
+			"sede" : "San Luis",
+			"codigo_especialidad" : 2,
+			"especialidad" : "Matematica",
+			"cantidad_horas" : 36			
+		},
+		{			
+			"id" : 5,
+			"fila" : 5,
+			"codigo_docente" : 4,
+			"nombre" : "MARTINELLI MEJIA, JENNY LUZ",
+			"codigo_sede" : 11,
+			"sede" : "San Luis",
+			"codigo_especialidad" : 2,
+			"especialidad" : "Matematica",
+			"cantidad_horas" : 36			
+		},
+		{			
+			"id" : 6,
+			"fila" : 6,
+			"codigo_docente" : 5,
+			"nombre" : "DAVALOS VARGAS, SORAIDA SIVIA",
+			"codigo_sede" : 4,
+			"sede" : "Calca",
+			"codigo_especialidad" : 3,
+			"especialidad" : "Comunicacion Integral",
+			"cantidad_horas" : 36				
+		},
+		{			
+			"id" : 7,
+			"fila" : 7,
+			"codigo_docente" : 6,
+			"nombre" : "PACHAS OLAYUNCA, GUADALUPE MORENA",
+			"codigo_sede" : 5,
+			"sede" : "Rosales",
+			"codigo_especialidad" : 3,
+			"especialidad" : "Comunicacion Integral",
+			"cantidad_horas" : 36			
+		},
+		{			
+			"id" : 8,
+			"fila" : 8,
+			"codigo_docente" : 7,
+			"nombre" : "DE LA CRUZ PALOMINO, SANDRA DOMITILA",
+			"codigo_sede" : 8,
+			"sede" : "6 de Agosto",
+			"codigo_especialidad" : 5,
+			"especialidad" : "Ajedrez",
+			"cantidad_horas" : 9			
+		},
+		{			
+			"id" : 9,
+			"fila" : 9,
+			"codigo_docente" : 7,
+			"nombre" : "DE LA CRUZ PALOMINO, SANDRA DOMITILA",
+			"codigo_sede" : 4,
+			"sede" : "Calca",
+			"codigo_especialidad" : 5,
+			"especialidad" : "Ajedrez",
+			"cantidad_horas" : 9
+		},
+		{			
+			"id" : 10,
+			"fila" : 10,
+			"codigo_docente" : 7,
+			"nombre" : "DE LA CRUZ PALOMINO, SANDRA DOMITILA",
+			"codigo_sede" : 11,
+			"sede" : "San Luis",
+			"codigo_especialidad" : 5,
+			"especialidad" : "Ajedrez",
+			"cantidad_horas" : 9	
+		},
+		{			
+			"id" : 11,
+			"fila" : 11,
+			"codigo_docente" : 7,
+			"nombre" : "DE LA CRUZ PALOMINO, SANDRA DOMITILA",
+			"codigo_sede" : 5,
+			"sede" : "Rosales",
+			"codigo_especialidad" : 5,
+			"especialidad" : "Ajedrez",
+			"cantidad_horas" : 9		
+		},
+		{			
+			"id" : 12,
+			"fila" : 12,
+			"codigo_docente" : 8,
+			"nombre" : "ALMENARA MAYURI, VICTOR FERRARI",
+			"codigo_sede" : 5,
+			"sede" : "Rosales",
+			"codigo_especialidad" : 1,
+			"especialidad" : "Inicial",
+			"cantidad_horas" : "-"	
+		},
+		{			
+			"id" : 13,
+			"fila" : 13,
+			"codigo_docente" : 9,
+			"nombre" : "MEDIA RAMIREZ, KARIN GINA",
+			"codigo_sede" : 4,
+			"sede" : "Calca",
+			"codigo_especialidad" : 4,
+			"especialidad" : "Ingles",
+			"cantidad_horas" : 18		
+		},
+		{			
+			"id" : 14,
+			"fila" : 14,
+			"codigo_docente" : 9,
+			"nombre" : "MEDIA RAMIREZ, KARIN GINA",
+			"codigo_sede" : 11,
+			"sede" : "San Luis",
+			"codigo_especialidad" : 4,
+			"especialidad" : "Ingles",
+			"cantidad_horas" : 18
+		},
+		{			
+			"id" : 15,
+			"fila" : 15,
+			"codigo_docente" : 10,
+			"nombre" : "SOTO ESPINOZA, MARIA LUISA",
+			"codigo_sede" : 4,
+			"sede" : "Calca",
+			"codigo_especialidad" : 2,
+			"especialidad" : "Matematica",
+			"cantidad_horas" : 36		
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "estadoPeriodoHorasExtras": [
+    {
+      "id": 1,
+      "nombre": "ACTIVO"
+    },
+    {
+      "id": 2,
+      "nombre": "INACTIVO"
+    }
+  ]
+}

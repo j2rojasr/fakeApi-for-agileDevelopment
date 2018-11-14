@@ -1,0 +1,22 @@
+{
+	"toleranciasIndividuales": [
+		{
+			"id": 1,
+			"trabajador_id": "948",
+			"trabajador_documentoidentidad": "42903553",
+			"trabajador_nombres": "Guadalupe",
+			"trabajador_apellidos": "Briseño",
+			"horarioLV": "07:20",
+			"toleranciaLV": "20",
+			"nuevoHorarioLV": "07:40",
+			"horarioSabado": "07:45",
+			"toleranciaSabado": "0",
+			"nuevoHorarioSabado": "07:45",
+			"fechaRegistro": "",
+			"fechaInicio": "02/03/2018",
+			"fechaFin": "25/12/2018",
+			"observacion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus soluta quis tenetur vitae sunt unde tempore, suscipit eaque ipsa facilis distinctio error cum fugit quas voluptatum autem ad esse modi?",
+			"estado": 1
+		}
+	]
+}

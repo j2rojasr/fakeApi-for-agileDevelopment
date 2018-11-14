@@ -1,0 +1,329 @@
+{
+	"policias": [
+		{
+			"id": 1,
+			"dni": "43697796",
+			"nombres": "VIDAL AVILA WILLY CESAR"
+		},
+		{
+			"id": 2,
+			"dni": "17422556",
+			"nombres": "DELGADO CHOZO JUAN FRANCISCO"
+		},
+		{
+			"id": 3,
+			"dni": "03336601",
+			"nombres": "APONTE JAIME SEGUNDO FRANCISCO"
+		},
+		{
+			"id": 4,
+			"dni": "09512161",
+			"nombres": "GARCIA TORRES DAVID"
+		},
+		{
+			"id": 5,
+			"dni": "09132250",
+			"nombres": "VERA GUEVARA HUGO"
+		},
+		{
+			"id": 6,
+			"dni": "43345737",
+			"nombres": "MENDOZA RAMIREZ JORGE"
+		},
+		{
+			"id": 7,
+			"dni": "43473753",
+			"nombres": "GUERRERO VELASCO LUIS SEGUNDO"
+		},
+		{
+			"id": 8,
+			"dni": "07000583",
+			"nombres": "SALOME LAZO REGULO RIGOBERTO"
+		},
+		{
+			"id": 9,
+			"dni": "43265957",
+			"nombres": "OSORIO DOMINGUEZ LUIS ALBERTO"
+		},
+		{
+			"id": 10,
+			"dni": "08374202",
+			"nombres": "CUEVA VERA GLADYS"
+		},
+		{
+			"id": 11,
+			"dni": "10076922",
+			"nombres": "SOLOGUREN HERMOSA HERMINIO"
+		},
+		{
+			"id": 12,
+			"dni": "09742695",
+			"nombres": "DEZA CORREA OSCAR MIGUEL"
+		},
+		{
+			"id": 13,
+			"dni": "08883409",
+			"nombres": "ROJAS RAMOS MIGUEL ANGEL"
+		},
+		{
+			"id": 14,
+			"dni": "06074680",
+			"nombres": "SAAVEDRA JARAMILLO DINORA CELESTE"
+		},
+		{
+			"id": 15,
+			"dni": "08417199",
+			"nombres": "TUESTA CABRERA HUGO MARCIAL"
+		},
+		{
+			"id": 16,
+			"dni": "08829457",
+			"nombres": "ROJAS ALAYO EDILBERTO JAVIER"
+		},
+		{
+			"id": 17,
+			"dni": "43228308",
+			"nombres": "HERRERA SOTO JULIO"
+		},
+		{
+			"id": 18,
+			"dni": "09966765",
+			"nombres": "CASTRO GARCIA MERCEDEZ LIZBHET"
+		},
+		{
+			"id": 19,
+			"dni": "43423341",
+			"nombres": "QUIJANO FLORES JOSE LUIS"
+		},
+		{
+			"id": 20,
+			"dni": "08142872",
+			"nombres": "PRADA MANRIQUE FREDDY GUSTAVO"
+		},
+		{
+			"id": 21,
+			"dni": "09580764",
+			"nombres": "ORTIZ ORTIZ JUAN CARLOS"
+		},
+		{
+			"id": 22,
+			"dni": "09453607",
+			"nombres": "REVILLA HUAMANI JOHN DENIS"
+		},
+		{
+			"id": 23,
+			"dni": "08392584",
+			"nombres": "CABRERA VALDEZ MIGUEL ANGEL"
+		},
+		{
+			"id": 24,
+			"dni": "10726138",
+			"nombres": "CONTRERAS Y SOTELO ROLANDO NEMESIO"
+		},
+		{
+			"id": 25,
+			"dni": "44124120",
+			"nombres": "SALAS VELASQUEZ WALTER"
+		},
+		{
+			"id": 26,
+			"dni": "43440548",
+			"nombres": "DELGADO ACEVEDO JUAN"
+		},
+		{
+			"id": 27,
+			"dni": "23651603",
+			"nombres": "MENDOZA CASTILLO RAUL"
+		},
+		{
+			"id": 28,
+			"dni": "03486254",
+			"nombres": "REYES FALLA EDINSO"
+		},
+		{
+			"id": 29,
+			"dni": "10292689",
+			"nombres": "DELGADO CHOZO SEGUNDO LUIS"
+		},
+		{
+			"id": 30,
+			"dni": "42320145",
+			"nombres": "LOAYZA SANCHEZ BALERIO"
+		},
+		{
+			"id": 31,
+			"dni": "43287163",
+			"nombres": "OCHOA SURE SEBASTIAN"
+		},
+		{
+			"id": 32,
+			"dni": "43281024",
+			"nombres": "MORI VASQUEZ JUAN MIGUEL"
+		},
+		{
+			"id": 33,
+			"dni": "09956252",
+			"nombres": "BRUNO SUCLUPE LUIS GRACILIANO"
+		},
+		{
+			"id": 34,
+			"dni": "25558832",
+			"nombres": "GALVEZ HUAPAYA CECILIA PAULA"
+		},
+		{
+			"id": 35,
+			"dni": "41095330",
+			"nombres": "SUEJIRO SOTO ELEAZAR ISAAC"
+		},
+		{
+			"id": 36,
+			"dni": "43329654",
+			"nombres": "CANGALAYA SUSANIBAR MEDARDO ESTEBAN"
+		},
+		{
+			"id": 37,
+			"dni": "06820935",
+			"nombres": "VEGA CONTRERAS SEGUNDO ADOLFO"
+		},
+		{
+			"id": 38,
+			"dni": "25188780",
+			"nombres": "CARBAJAL ALVAREZ VICTOR REYNALDO"
+		},
+		{
+			"id": 39,
+			"dni": "25698006",
+			"nombres": "NARIO FELIX LUIS ARTURO"
+		},
+		{
+			"id": 40,
+			"dni": "43273808",
+			"nombres": "VARAS CERRON JOSE FERNANDO"
+		},
+		{
+			"id": 41,
+			"dni": "16125143",
+			"nombres": "CHOY BAUTISTA VICTOR MANUEL"
+		},
+		{
+			"id": 42,
+			"dni": "43385859",
+			"nombres": "RAMIREZ GARCIA JORGE"
+		},
+		{
+			"id": 43,
+			"dni": "40563436",
+			"nombres": "APAZA REYES LURDES JUANA"
+		},
+		{
+			"id": 44,
+			"dni": "08370526",
+			"nombres": "VILLENA JORDAN CECILIA ZOILA"
+		},
+		{
+			"id": 45,
+			"dni": "06239121",
+			"nombres": "ABANTO INOCENTE MIGUEL RICARDO"
+		},
+		{
+			"id": 46,
+			"dni": "07150514",
+			"nombres": "CHAVEZ FALCON ALEJANDRO FLORENTINO"
+		},
+		{
+			"id": 47,
+			"dni": "32039353",
+			"nombres": "VILLANUEVA FIGUEROA ALEJANDRO MARIO"
+		},
+		{
+			"id": 48,
+			"dni": "21459245",
+			"nombres": "MAYURI CARDENAS VICTOR FLORENCIO"
+		},
+		{
+			"id": 49,
+			"dni": "09615303",
+			"nombres": "BRUNO SUCLUPE ROLANDO"
+		},
+		{
+			"id": 50,
+			"dni": "10798432",
+			"nombres": "BELTRAN CASTRO MARIO"
+		},
+		{
+			"id": 51,
+			"dni": "06935305",
+			"nombres": "ALVARADO ROMERO EDGAR ALFREDO"
+		},
+		{
+			"id": 52,
+			"dni": "07120718",
+			"nombres": "BARZOLA CONDE MARIO LIZARDO"
+		},
+		{
+			"id": 53,
+			"dni": "43745292",
+			"nombres": "PINEDO FLORES AUGUSTO"
+		},
+		{
+			"id": 54,
+			"dni": "07666886",
+			"nombres": "VILLACORTA RICALDI HUGO WILLY"
+		},
+		{
+			"id": 55,
+			"dni": "10118549",
+			"nombres": "RENGIFO PEREZ RUTY ESTHER"
+		},
+		{
+			"id": 56,
+			"dni": "99999999",
+			"nombres": "ALVIS SABBAGH IGNACIO"
+		},
+		{
+			"id": 57,
+			"dni": "41868095",
+			"nombres": "CARBAJAL ARREDONDO DOMINGO BELARMINO"
+		},
+		{
+			"id": 58,
+			"dni": "10154465",
+			"nombres": "CORONADO SAAVEDRA MEYLER ANGELICA"
+		},
+		{
+			"id": 59,
+			"dni": "40348477",
+			"nombres": "GOZAR HIDALGO GINO"
+		},
+		{
+			"id": 60,
+			"dni": "09576515",
+			"nombres": "CUEVA VERA MARCO ANTONIO"
+		},
+		{
+			"id": 61,
+			"dni": "44233999",
+			"nombres": "LOZANO CABRERA GILVER"
+		},
+		{
+			"id": 62,
+			"dni": "43385837",
+			"nombres": "RUIZ RUESTA CARLA YANET"
+		},
+		{
+			"id": 63,
+			"dni": "09453184",
+			"nombres": "MEZA SANCHEZ GENARO VICTOR"
+		},
+		{
+			"id": 64,
+			"dni": "45484629",
+			"nombres": "SORIA SANCHEZ MANUEL ARMANDO"
+		},
+		{
+			"id": 65,
+			"dni": "43263847",
+			"nombres": "SALAZAR VERA PEDRO ARMANDO"
+		}
+	]
+}

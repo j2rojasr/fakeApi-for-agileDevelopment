@@ -1,0 +1,22 @@
+{
+	"tipoExpediente" : [
+{"id":1,"descripcion":"CURRICULUM VITAE"},
+{"id":2,"descripcion":"DOCUMENTO DE IDENTIDAD"},
+{"id":3,"descripcion":"CONSTANCIA PSICOLÓGICA"},
+{"id":4,"descripcion":"EVALUACIÓN ESCRITA"},
+{"id":5,"descripcion":"CERTIFICADO"},
+{"id":6,"descripcion":"ANTECEDENTES POLICIALES"},
+{"id":7,"descripcion":"TITULO A NOMBRE DE LA NACIÓN"},
+{"id":8,"descripcion":"CONSTANCIA DE TRABAJO"},
+{"id":9,"descripcion":"CERTIFICADO MEDICO"},
+{"id":10,"descripcion":"ANTECEDENTES PENALES"},
+{"id":11,"descripcion":"OTROS"},
+{"id":15,"descripcion":"EJEMPLO"},
+{"id":16,"descripcion":"EJEMPLO3"},
+{"id":17,"descripcion":"LOL"},
+{"id":18,"descripcion":"HISTORIAL MEDICO"},
+{"id":19,"descripcion":"EJEMPLO4"},
+{"id":20,"descripcion":"TARJETA DE VACUNA"},
+{"id":21,"descripcion":"RECETA MÉDICA"}
+	]
+}

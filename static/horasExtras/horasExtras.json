@@ -1,0 +1,74 @@
+{
+	"horasExtras" : [
+		{
+			"id" : 1,
+			"codigo_personal" : 1,
+			"codigo_periodo" : 1,
+			"dia" : "Lunes",
+			"fechaHoraExtra" : "17/09/2018",
+			"horaInicio" : "17:30",
+			"horaFin" : "21:00",
+			"totalHoras" : "3h 30min",
+			"monto" : 24.5,
+			"laborDesempeñada" : "Rasking",
+			"codigo_estado" : 1,
+			"estado" : "Registrado"
+		},
+		{
+			"id" : 2,
+			"codigo_personal" : 1,
+			"codigo_periodo" : 1,
+			"dia" : "Martes",
+			"fechaHoraExtra" : "18/09/2018",
+			"horaInicio" : "17:30",
+			"horaFin" : "20:00",
+			"totalHoras" : "2h 30min",
+			"monto" : 17.5,
+			"laborDesempeñada" : "Rasking",
+			"codigo_estado" : 2,
+			"estado" : "Aprobado"
+		},
+		{
+			"id" : 3,
+			"codigo_personal" : 2,
+			"codigo_periodo" : 1,
+			"dia" : "Lunes",
+			"fechaHoraExtra" : "17/09/2018",
+			"horaInicio" : "17:30",
+			"horaFin" : "21:00",
+			"totalHoras" : "3h 30min",
+			"monto" : 24.5,
+			"laborDesempeñada" : "Rasking",
+			"codigo_estado" : 1,
+			"estado" : "Registrado"
+		},
+		{
+			"id" : 4,
+			"codigo_personal" : 3,
+			"codigo_periodo" : 1,
+			"dia" : "Lunes",
+			"fechaHoraExtra" : "17/09/2018",
+			"horaInicio" : "17:30",
+			"horaFin" : "21:00",
+			"totalHoras" : "3h 30min",
+			"monto" : 24.5,
+			"laborDesempeñada" : "Rasking",
+			"codigo_estado" : 1,
+			"estado" : "Registrado"
+		},
+		{
+			"id" : 5,
+			"codigo_personal" : 4,
+			"codigo_periodo" : 1,
+			"dia" : "Lunes",
+			"fechaHoraExtra" : "17/09/2018",
+			"horaInicio" : "17:30",
+			"horaFin" : "21:00",
+			"totalHoras" : "3h 30min",
+			"monto" : 24.5,
+			"laborDesempeñada" : "Rasking",
+			"codigo_estado" : 1,
+			"estado" : "Registrado"
+		}
+	]
+}

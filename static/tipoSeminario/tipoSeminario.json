@@ -1,0 +1,20 @@
+{
+	"tipoSeminario": [
+		{
+			"id": 1,
+			"descripcion": "SEMINARIO"
+		},
+		{
+			"id": 2,
+			"descripcion": "RECUPERACIÓN"
+		},
+		{
+			"id": 3,
+			"descripcion": "ASESORÍA"
+		},
+		{
+			"id": 4,
+			"descripcion": "HORAS EXTRAS"
+		}
+	]
+}

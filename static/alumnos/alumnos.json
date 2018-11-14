@@ -1,0 +1,89 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "title": "planeta tierra",
+      "body": "explicacion"
+    },
+    {
+      "id": 2,
+      "title": "venus y tierra",
+      "body": "venus curso"
+    },
+    {
+      "id": 3,
+      "title": "jupiter saturno",
+      "body": "jupiter sobre saturno"
+    },
+    {
+      "id": 4,
+      "title": "tierra luna",
+      "body": "luna del mar"
+    },
+    {
+      "id": 5,
+      "title": "aire y tierra y mar",
+      "body": "los elementos"
+    },
+    {
+      "id": 6,
+      "title": "sol",
+      "body": "explicacion de curso"
+    },
+    {
+      "id": 7,
+      "title": "tutorial de php",
+      "body": "tierra"
+    },
+    {
+      "id": 8,
+      "title": "youtube platzi",
+      "body": "bienbenido a platzi tierra"
+    },
+    {
+      "id": 9,
+      "title": "cómo usar json-server",
+      "body": "y cómo usar node npm"
+    },
+    {
+      "id": 10,
+      "title": "cómo usar",
+      "body": "node npm"
+    },
+    {
+      "id": 11,
+      "title": "sql server",
+      "body": "npm"
+    },
+    {
+      "id": 12,
+      "title": "mysql",
+      "body": "no usar .net"
+    },
+    {
+      "id": 13,
+      "title": "json onject",
+      "body": "npm"
+    },
+    {
+      "id": 14,
+      "title": "mysql npm",
+      "body": "fake json"
+    },
+    {
+      "id": 15,
+      "title": "mockup",
+      "body": "json mockup"
+    },
+    {
+      "id": 16,
+      "title": "mockup json server",
+      "body": "uso de node"
+    },
+    {
+      "id": 17,
+      "title": "server mysql",
+      "body": "prepared statement"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+	"grupoAcademico": [
+		{
+			"id": 1,
+			"descripcion": "A"
+		},
+		{
+			"id": 2,
+			"descripcion": "B"
+		},
+		{
+			"id": 3,
+			"descripcion": "C"
+		},
+		{
+			"id": 4,
+			"descripcion": "D"
+		},
+		{
+			"id": 5,
+			"descripcion": "E"
+		},
+		{
+			"id": 6,
+			"descripcion": "F"
+		},
+		{
+			"id": 7,
+			"descripcion": "G"
+		},
+		{
+			"id": 8,
+			"descripcion": "H"
+		}
+	]
+}

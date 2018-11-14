@@ -1,0 +1,46 @@
+{
+  "documentoIdentidad": [
+    {
+      "id": 1,
+      "nombre": "DNI",      
+      "descripcioncorta": "DNI",
+      "longitud": 8,
+      "tipo": "NUMERICO"
+    },
+    {
+      "id": 2,
+      "nombre": "LIBRETA ELECTORAL",      
+      "descripcioncorta": "LE",
+      "longitud": 8,
+      "tipo": "NUMERICO"
+    },
+    {
+      "id": 3,
+      "nombre": "CARNET DE EXTRANJERÍA",      
+      "descripcioncorta": "CARNET EXT",
+      "longitud": 12,
+      "tipo": "ALFANUMERICO"
+    },
+    {
+      "id": 4,
+      "nombre": "REG. UNICO DE CONTRIBUYENTES",      
+      "descripcioncorta": "RUC",
+      "longitud": 11,
+      "tipo": "NUMERICO"
+    },
+    {
+      "id": 5,
+      "nombre": "PASAPORTE",      
+      "descripcioncorta": "PASAPORTE",
+      "longitud": 12,
+      "tipo": "ALFANUMERICO"
+    },
+    {
+      "id": 6,
+      "nombre": "PART. DE NACIMIENTO-IDENTIDAD",      
+      "descripcioncorta": "P. NAC.",
+      "longitud": 15,
+      "tipo": "ALFANUMERICO"
+    }
+  ]
+}

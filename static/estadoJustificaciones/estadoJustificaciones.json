@@ -1,0 +1,16 @@
+{
+	"estadoJustificaciones": [
+		{
+			"id": 1,
+			"descripcion": "PENDIENTE"
+		},
+		{
+			"id": 2,
+			"descripcion": "ACEPTADO"
+		},
+		{
+			"id": 3,
+			"descripcion": "RECHAZADO"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+  "contratoTipo": [
+    {
+      "id": 1,
+      "nombre": "NECESIDAD DE MERCADO",
+      "descripcion": "PARA ADMINISTRATIVOS. DOCENTE PRIMARIA, ADMINISTRATIVO REGULAR Y PRONOE (MAÑANA)"
+    },
+    {
+      "id": 2,
+      "nombre": "TIEMPO PARCIAL",
+      "descripcion": "PARA POLICIAS"
+    },
+    {
+      "id": 3,
+      "nombre": "POR LOCACIÓN DE SERVICIOS",
+      "descripcion": "PARA ADMINISTRATIVOS Y DOCENTES. DOCENTE SECUNDARIA Y PRONOE (TARDE)"
+    },
+    {
+      "id": 4,
+      "nombre": "MENSUALES POR HORA",
+      "descripcion": "PARA DOCENTES. DOCENTE SECUNDARIA"
+    },
+    {
+      "id": 5,
+      "nombre": "TIEMPO PARCIAL POR HORA",
+      "descripcion": "PARA DOCENTES. DOCENTE SECUNDARIA"
+    }
+  ]
+}

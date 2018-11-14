@@ -1,0 +1,64 @@
+{
+  "estadoAsistencia": [
+    {
+      "descripcion": "TEMPRANO",
+      "nombre": "TEMPRANO",
+      "codigo": 1
+    },
+    {
+      "descripcion": "TARDANZA",
+      "nombre": "TARDANZA",
+      "codigo": 2
+    },
+    {
+      "descripcion": "FALTA CON AVISO",
+      "nombre": "FCA",
+      "codigo": 3
+    },
+    {
+      "descripcion": "FALTA SIN AVISO",
+      "nombre": "FSA",
+      "codigo": 4
+    },
+    {
+      "descripcion": "NO MARCÓ",
+      "nombre": "NO MARCÓ",
+      "codigo": 5
+    },
+    {
+      "descripcion": "VACACIONES",
+      "nombre": "VAC",
+      "codigo": 6
+    },
+    {
+      "descripcion": "FERIADO",
+      "nombre": "FER",
+      "codigo": 7
+    },
+    {
+      "descripcion": "LICENCIA CON GOCE DE HABERES",
+      "nombre": "LCGH",
+      "codigo": 8
+    },
+    {
+      "descripcion": "LICENCIA SIN GOCE DE HABERES",
+      "nombre": "LSGH",
+      "codigo": 9
+    },
+    {
+      "descripcion": "ENTRADA PENDIENTE",
+      "nombre": "ENTRADA PENDIENTE",
+      "codigo": 10
+    },
+    {
+      "descripcion": "SALIDA PENDIENTE",
+      "nombre": "SALIDA PENDIENTE",
+      "codigo": 11
+    },
+    {
+      "descripcion": "PENDIENTE",
+      "nombre": "PENDIENTE",
+      "codigo": 12
+    }
+  ]
+}

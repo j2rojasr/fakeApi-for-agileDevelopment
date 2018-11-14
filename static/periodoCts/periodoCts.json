@@ -1,0 +1,40 @@
+{
+  "periodoCts": [
+    {
+      "id": 1,
+      "descripcion": "MAYO 2010",
+      "año" : 2010,
+      "fechaDesde" : "15/11/2009",
+      "fechaHasta" : "15/05/2010",
+      "codigo_estado" : 2,
+      "estado" : "Finalizado"
+    },
+    {
+      "id": 2,
+      "descripcion": "NOVIEMBRE 2010",
+      "año" : 2010,
+      "fechaDesde" : "15/05/2010",
+      "fechaHasta" : "15/11/2010",
+      "codigo_estado" : 2,
+      "estado" : "Finalizado"
+    },
+    {
+      "id": 3,
+      "descripcion": "MAYO 2011",
+      "año" : 2011,
+      "fechaDesde" : "15/11/2010",
+      "fechaHasta" : "15/05/2011",
+      "codigo_estado" : 2,
+      "estado" : "Finalizado"
+    },
+    {
+      "id": 4,
+      "descripcion": "NOVIEMBRE 2011",
+      "año" : 2011,
+      "fechaDesde" : "15/05/2011",
+      "fechaHasta" : "15/11/2011",
+      "codigo_estado" : 2,
+      "estado" : "Finalizado"
+    }
+  ]
+}

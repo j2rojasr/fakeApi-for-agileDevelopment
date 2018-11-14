@@ -1,0 +1,17 @@
+{
+  "name": "json-server-trismegisto-planilla",
+  "version": "1.0.0",
+  "description": "json-server is great for stub server usage\r but in my opinion there where some caveat that i tried to solve in this package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "internal-ip": "^3.0.1",
+    "json-server-extension": "^1.1.2",
+    "terminal-link": "^1.1.0"
+  }
+}

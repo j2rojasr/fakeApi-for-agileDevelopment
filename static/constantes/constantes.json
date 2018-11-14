@@ -1,0 +1,56 @@
+{
+	"constantes" : [
+		{
+			"id" : 1,
+			"constante" : "Impuesto General a la Venta",
+			"abreviacion" : "IGV",
+			"valor" : 0.18,
+			"descripcion": "Hace algo",
+			"formulas" : [
+				{
+					"formula" : "CV * IGV",
+					"proceso" : "CTS",
+					"descripcion" : "Hace algo"
+				},
+				{
+					"formula" : "(CA + Dd) * IGV",
+					"proceso" : "Vacaciones",
+					"descripcion" : "Hace algo"
+				},
+				{
+					"formula" : "(UIT / Pp) + (IGV * CA)",
+					"proceso" : "CTS",
+					"descripcion" : "Hace algo"
+				}
+			]
+		},
+		{
+			"id" : 2,
+			"constante" : "Unidad de Impuesto Tributaria",
+			"abreviacion" : "UIT",
+			"valor" : 4000,
+			"descripcion": "Hace algo"
+		},
+		{
+			"id" : 3,
+			"constante" : "Cobro antecedentes",
+			"abreviacion" : "CA",
+			"valor" : 2,
+			"descripcion": "Hace algo"
+		},
+		{
+			"id" : 4,
+			"constante" : "Porcentaje periferico",
+			"abreviacion" : "Pp",
+			"valor" : 0.12,
+			"descripcion": "Hace algo"
+		},
+		{
+			"id" : 5,
+			"constante" : "Diezmo dominical",
+			"abreviacion" : "Dd",
+			"valor" : 0.1,
+			"descripcion": "Hace algo"
+		}
+	]
+}

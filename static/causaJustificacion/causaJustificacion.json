@@ -1,0 +1,12 @@
+{
+	"causaJustificacion": [
+		{
+			"id": 1,
+			"descripcion": "TARDANZA"
+		},
+		{
+			"id": 2,
+			"descripcion": "FALTA"
+		}
+	]
+}

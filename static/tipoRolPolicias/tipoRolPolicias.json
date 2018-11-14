@@ -1,0 +1,22 @@
+{
+	"tipoRolPolicias": [
+		{
+			"codigo": 1,
+			"descripcion": "REGULAR",
+			"hora_entrada": "07:00",
+			"hora_salida": "17:00"
+		},
+		{
+			"codigo": 2,
+			"descripcion": "AMANECIDA 12H",
+			"hora_entrada": "19:00",
+			"hora_salida": "07:00"
+		},
+		{
+			"codigo": 3,
+			"descripcion": "AMANECIDA 24H",
+			"hora_entrada": "07:00",
+			"hora_salida": "07:00"
+		}
+	]
+}

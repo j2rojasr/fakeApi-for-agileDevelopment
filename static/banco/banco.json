@@ -1,0 +1,24 @@
+{
+  "banco": [
+    {
+      "id": 1,
+      "nombre": "BANCO BBVA CONTINENTAL PERÚ",
+      "nombreabreviado": "BBVA PERÚ"
+    },
+    {
+      "id": 2,
+      "nombre": "SCOTIABANK PERÚ",
+      "nombreabreviado": "SCOTIABANK PERÚ"
+    },
+    {
+      "id": 3,
+      "nombre": "BANCO DE CRÉDITO DEL PERÚ",
+      "nombreabreviado": "BCP PERÚ"
+    },
+    {
+      "id": 4,
+      "nombre": "INTERBANK PERÚ",
+      "nombreabreviado": "INTERBANCK PERÚ"
+    }
+  ]
+}

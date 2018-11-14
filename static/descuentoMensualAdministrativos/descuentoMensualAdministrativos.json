@@ -1,0 +1,56 @@
+{
+	"descuentoMensualAdministrativos": [
+		{
+			"id": 1,
+			"trabajador_id": 1,
+			"trabajador_documentoidentidad": "12345678",
+			"trabajador_nombres": "LUIS ALBERTO",
+			"trabajador_apellidos": "GANGAS VASQUEZ",
+			"puestolaboral_id": 1,
+			"puestolaboral_nombre": "ANALISTA PROGRAMADOR",
+			"descuento_total": 100,
+			"sede_codigo": 15,
+			"sede_descripcion": "ADMINISTRACION",
+			"estado": 1
+		},
+		{
+			"id": 2,
+			"trabajador_id": 2,
+			"trabajador_documentoidentidad": "02345678",
+			"trabajador_nombres": "JUAN JOSE",
+			"trabajador_apellidos": "ROJAS ROJAS",
+			"puestolaboral_id": 1,
+			"puestolaboral_nombre": "ANALISTA PROGRAMADOR",
+			"descuento_total": 25,
+			"sede_codigo": 15,
+			"sede_descripcion": "ADMINISTRACION",
+			"estado": 1
+		},
+		{
+			"id": 3,
+			"trabajador_id": 3,
+			"trabajador_documentoidentidad": "43245678",
+			"trabajador_nombres": "ALEX",
+			"trabajador_apellidos": "GONZALES PEREZ",
+			"puestolaboral_id": 1,
+			"puestolaboral_nombre": "ANALISTA PROGRAMADOR",
+			"descuento_total": 200,
+			"sede_codigo": 15,
+			"sede_descripcion": "ADMINISTRACION",
+			"estado": 1
+		},
+		{
+			"id": 4,
+			"trabajador_id": 4,
+			"trabajador_documentoidentidad": "12345098",
+			"trabajador_nombres": "DAVID",
+			"trabajador_apellidos": "BALTAZAR TORRES",
+			"puestolaboral_id": 1,
+			"puestolaboral_nombre": "ANALISTA PROGRAMADOR",
+			"descuento_total": 20,
+			"sede_codigo": 15,
+			"sede_descripcion": "ADMINISTRACION",
+			"estado": 1
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "turnoLaboral": [
+    {
+      "id": 1,
+      "nombre": "MAÑANA"
+    },
+    {
+      "id": 2,
+      "nombre": "TARDE"
+    },
+    {
+      "id": 3,
+      "nombre": "NOCHE"
+    }
+  ]
+}

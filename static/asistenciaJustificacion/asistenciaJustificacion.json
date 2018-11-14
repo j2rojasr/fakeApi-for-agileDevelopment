@@ -1,0 +1,81 @@
+{
+	"asistenciaJustificacion": [
+		{
+			"id":1,
+			"fecha_asistencia": "17/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "100",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "LINCE",
+			"huella": 0,
+			"tipo_trabajador": "ADMINISTRATIVO",
+			"estado": 1
+		},
+		{
+			"id":2,
+			"fecha_asistencia": "18/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "100",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "LINCE",
+			"huella": 0,
+			"tipo_trabajador": "ADMINISTRATIVO",
+			"estado": 1
+		},
+		{
+			"id":3,
+			"fecha_asistencia": "19/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "100",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "LINCE",
+			"huella": 0,
+			"tipo_trabajador": "ADMINISTRATIVO",
+			"estado": 1
+		},
+		{
+			"id":4,
+			"fecha_asistencia": "20/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "100",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "LINCE",
+			"huella": 0,
+			"tipo_trabajador": "ADMINISTRATIVO",
+			"estado": 1
+		},
+		{
+			"id":5,
+			"fecha_asistencia": "21/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "100",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "LINCE",
+			"huella": 0,
+			"tipo_trabajador": "ADMINISTRATIVO",
+			"estado": 1
+		},
+		{
+			"id":6,
+			"fecha_asistencia": "22/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "30 min",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "ARENALES",
+			"huella": 0,
+			"tipo_trabajador": "POR HORAS",
+			"estado": 1
+		},
+		{
+			"id":7,
+			"fecha_asistencia": "24/09/2018",
+			"hora_asistencia": "-",
+			"descuento": "100",
+			"observacion": "POR SALUD",
+			"sede_marcacion": "LINCE",
+			"huella": 0,
+			"tipo_trabajador": "ADMINISTRATIVO",
+			"estado": 1
+		}
+	]
+}

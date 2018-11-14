@@ -1,0 +1,59 @@
+{
+    "rolesPolicias": [{
+        "numeroFila": 1,
+        "id": 1,
+        "policia_id": 45,
+        "policia_dni": "06239121",
+        "policia_nombres": "ABANTO INOCENTE MIGUEL RICARDO",
+        "sede_id": 2,
+        "sede_descripcion": "MONTESORI",
+        "fecha_inicio": "01/09/2018",
+        "fecha_fin": "06/09/2018",
+        "tiporol_id": 1,
+        "tiporol_descripcion": "REGULAR",
+        "frecuencia_id": 3,
+        "frecuencia_descripcion": "DIARIO",
+        "detalles_rol": [{
+                "id": 1,
+                "fecha_entrada": "01/09/2018 07:00",
+                "fecha_salida": "01/09/2018 17:00",
+                "asistencia_entrada": "01/09/2018 06:52",
+                "asistencia_salida": "01/09/2018 19:27",
+                "estado": 1
+            },
+            {
+                "id": 2,
+                "fecha_entrada": "03/09/2018 07:00",
+                "fecha_salida": "03/09/2018 17:00",
+                "asistencia_entrada": null,
+                "asistencia_salida": null,
+                "estado": 1
+            },
+            {
+                "id": 3,
+                "fecha_entrada": "04/09/2018 07:00",
+                "fecha_salida": "04/09/2018 17:00",
+                "asistencia_entrada": null,
+                "asistencia_salida": null,
+                "estado": 1
+            },
+            {
+                "id": 4,
+                "fecha_entrada": "05/09/2018 07:00",
+                "fecha_salida": "05/09/2018 17:00",
+                "asistencia_entrada": null,
+                "asistencia_salida": null,
+                "estado": 1
+            },
+            {
+                "id": 5,
+                "fecha_entrada": "06/09/2018 07:00",
+                "fecha_salida": "06/09/2018 17:00",
+                "asistencia_entrada": null,
+                "asistencia_salida": null,
+                "estado": 1
+            }
+        ],
+        "estado": 1
+    }]
+}

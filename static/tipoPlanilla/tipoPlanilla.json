@@ -1,0 +1,28 @@
+{
+  "tipoPlanilla": [
+    {
+      "id": 1,
+      "nombre": "NECESIDADES DE MERCADO"
+    },
+    {
+      "id": 2,
+      "nombre": "TIEMPO PARCIAL"
+    },
+    {
+      "id": 3,
+      "nombre": "MENSUALES POR HORA"
+    },
+    {
+      "id": 4,
+      "nombre": "TIEMPO PARCIAL POR HORA"
+    },
+    {
+      "id": 5,
+      "nombre": "POR LOCACIÓN DE SERVICIOS"
+    },
+    {
+      "id": 6,
+      "nombre": "CONTRATO DE SUPLENCIA"
+    }
+  ]
+}

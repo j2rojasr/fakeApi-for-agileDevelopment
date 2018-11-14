@@ -1,0 +1,18 @@
+{
+	"descuentoPlanilla" : [
+		{
+			"id" : 1,
+			"codigoPersonal" : 1,
+			"razonSocial" : "Saco Oliveros",
+			"tipoDescuento" : "Asistencia",
+			"fechaEmision" : "01/01/2018",
+			"fechaDescuento" : "02/02/2018",
+			"monto" : 215.23,
+			"porcentajeDescuento" : 0.2,
+			"numeroCuotas" : 4,
+			"formaPago" : "Banco",
+			"periodo" : "Mensual",
+			"motivo" : "Es un lokillo"
+		}
+	]
+}

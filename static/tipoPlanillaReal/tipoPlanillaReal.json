@@ -1,0 +1,15 @@
+{
+    "tipoPlanillaReal": [{
+        "id": 1,
+        "descripcion": "MENSUAL"
+    }, {
+        "id": 2,
+        "descripcion": "QUINCENAL"
+    }, {
+        "id": 3,
+        "descripcion": "HORAS"
+    }, {
+        "id": 4,
+        "descripcion": "JEFE DE CURSO"
+    }]
+}

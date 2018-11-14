@@ -1,0 +1,40 @@
+{
+	"justificaciones": [
+		{
+			"id": 1,
+			"trabajador_id": 1,
+			"trabajador_nombres": "LUIS ALBERTO",
+			"trabajador_apellidos": "GANGAS VASQUEZ",
+			"trabajador_documentoidentidad": "12345678",
+			"fecha_inicio": "17/09/2018",
+			"fecha_fin": "17/09/2018",
+			"hora_ingreso": "07:50",
+			"tipojustificacion_id": 1,
+			"tipojustificacion_descripcion": "TARDANZA",
+			"motivo": "ACCIDENTE EN LA AV. ABANCAY",
+			"observacion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus voluptatem eveniet, ad! Eos at fugiat, velit cumque veniam nisi ullam labore dolorum vero, explicabo debitis illo blanditiis voluptates possimus eius.",
+			"numero_documentos_adjuntos": "3",
+			"documentos": [
+				{
+					"url": "https://picsum.photos/300/300/?random"
+				},
+				{
+					"url": "https://picsum.photos/300/300/?random"
+				},
+				{
+					"url": "https://picsum.photos/300/300/?random"
+				},
+				{
+					"url": "https://picsum.photos/300/300/?random"
+				},
+				{
+					"url": "https://picsum.photos/300/300/?random"
+				},
+				{
+					"url": "https://picsum.photos/300/300/?random"
+				}
+			],
+			"estado": 1
+		}
+	]
+}

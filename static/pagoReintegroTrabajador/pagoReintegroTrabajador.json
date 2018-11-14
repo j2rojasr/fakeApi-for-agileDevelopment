@@ -1,0 +1,20 @@
+{
+  "pagoReintegroTrabajador": [
+    {
+      "id": 1,
+      "numero_orden": 1,
+      "motivopago": "HORAS EXTRAS",
+      "fechapago": "10-01-2018",
+      "montopago": 100.00,
+      "razonsocial_pago": "ACE SACO OLIVEROS"
+    },
+    {
+      "id": 1,
+      "numero_orden": 1,
+      "motivopago": "BONIFICACIÓN",
+      "fechapago": "06-09-2018",
+      "montopago": 250.00,
+      "razonsocial_pago": "ACE SACO OLIVEROS"
+    }
+  ]
+}

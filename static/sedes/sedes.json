@@ -1,0 +1,188 @@
+{
+  "sedes": [
+    {
+      "descripcion": "AREQUIPA",
+      "codigo": 1
+    },
+    {
+      "descripcion": "MONTESSORI",
+      "codigo": 2
+    },
+    {
+      "descripcion": "LINCE",
+      "codigo": 3
+    },
+    {
+      "descripcion": "CALCA",
+      "codigo": 4
+    },
+    {
+      "descripcion": "ROSALES",
+      "codigo": 5
+    },
+    {
+      "descripcion": "ARANCIBIA",
+      "codigo": 6
+    },
+    {
+      "descripcion": "BELISARIO",
+      "codigo": 7
+    },
+    {
+      "descripcion": "6 DE AGOSTO",
+      "codigo": 8
+    },
+    {
+      "descripcion": "CASONA",
+      "codigo": 9
+    },
+    {
+      "descripcion": "JULIO BELLIDO",
+      "codigo": 10
+    },
+    {
+      "descripcion": "SAN LUIS",
+      "codigo": 11
+    },
+    {
+      "descripcion": "BERTONELLI",
+      "codigo": 12
+    },
+    {
+      "descripcion": "BARRANCO",
+      "codigo": 13
+    },
+    {
+      "descripcion": "ARENALES",
+      "codigo": 14
+    },
+    {
+      "descripcion": "ADMINISTRACION",
+      "codigo": 15
+    },
+    {
+      "descripcion": "GRAFICOS",
+      "codigo": 16
+    },
+    {
+      "descripcion": "JHONSON",
+      "codigo": 17
+    },
+    {
+      "descripcion": "LA VICTORIA",
+      "codigo": 18
+    },
+    {
+      "descripcion": "EL AGUSTINO",
+      "codigo": 19
+    },
+    {
+      "descripcion": "SALAMANCA",
+      "codigo": 20
+    },
+    {
+      "descripcion": "BELLAVISTA",
+      "codigo": 21
+    },
+    {
+      "descripcion": "PROFESORES POR HORAS",
+      "codigo": 22
+    },
+    {
+      "descripcion": "PRONOE BELISARIO",
+      "codigo": 23
+    },
+    {
+      "descripcion": "QUILCA",
+      "codigo": 24
+    },
+    {
+      "descripcion": "ATE",
+      "codigo": 25
+    },
+    {
+      "descripcion": "SORIA",
+      "codigo": 26
+    },
+    {
+      "descripcion": "VILLA EL SALVADOR",
+      "codigo": 27
+    },
+    {
+      "descripcion": "UNGER",
+      "codigo": 28
+    },
+    {
+      "descripcion": "CIPRESES",
+      "codigo": 29
+    },
+    {
+      "descripcion": "CANTA CALLAO",
+      "codigo": 30
+    },
+    {
+      "descripcion": "PUEBLO LIBRE",
+      "codigo": 31
+    },
+    {
+      "descripcion": "VILLA SOL",
+      "codigo": 32
+    },
+    {
+      "descripcion": "COCALENOS",
+      "codigo": 33
+    },
+    {
+      "descripcion": "LOGISTICA",
+      "codigo": 34
+    },
+    {
+      "descripcion": "MONTERRICO",
+      "codigo": 35
+    },
+    {
+      "descripcion": "SAN CARLOS",
+      "codigo": 36
+    },
+    {
+      "descripcion": "MIGUEL IGLESIAS",
+      "codigo": 37
+    },
+    {
+      "descripcion": "CANTA CALLAO 2",
+      "codigo": 38
+    },
+    {
+      "descripcion": "ICA",
+      "codigo": 39
+    },
+    {
+      "descripcion": "HUANCAYO",
+      "codigo": 40
+    },
+    {
+      "descripcion": "CHACLACAYO",
+      "codigo": 41
+    },
+    {
+      "descripcion": "CARABAYLLO",
+      "codigo": 42
+    },
+    {
+      "descripcion": "CIPRESES 2",
+      "codigo": 43
+    },
+    {
+      "descripcion": "SAN MIGUEL",
+      "codigo": 44
+    },
+    {
+      "descripcion": "CUBA",
+      "codigo": 45
+    },
+    {
+      "descripcion": "CHORRILLOS",
+      "codigo": 46
+    }
+  ]
+}

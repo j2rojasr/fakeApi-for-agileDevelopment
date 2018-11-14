@@ -1,0 +1,39 @@
+{
+	"especialidades" : [
+		{
+			"id" : 1,
+			"descripcion" : "Inicial",
+			"monodocencia" : 1,
+			"taller" : 0,
+			"estado_registro" : 1
+		},
+		{
+			"id" : 2,
+			"descripcion" : "Matematica",
+			"monodocencia" : 0,
+			"taller" : 0,
+			"estado_registro" : 1
+		},
+		{
+			"id" : 3,
+			"descripcion" : "Comunicacion Integral",
+			"monodocencia" :0 ,
+			"taller" : 0,
+			"estado_registro" : 1
+		},
+		{
+			"id" : 4,
+			"descripcion" : "Ingles",
+			"monodocencia" : 0,
+			"taller" : 0,
+			"estado_registro" : 1
+		},
+		{
+			"id" : 5,
+			"descripcion" : "Ajedrez",
+			"monodocencia" : 0,
+			"taller" : 1,
+			"estado_registro" : 1
+		}
+	]
+}

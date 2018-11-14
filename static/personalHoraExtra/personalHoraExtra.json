@@ -1,0 +1,35 @@
+{
+	"personalHoraExtra" : [
+		{
+		"id": 1,
+		"nombre": "Antonia",
+		"apellido": "Montenegro",
+		"numeroDocumento": 57464234,
+		"cantidadRegistradas" : 2
+		},
+		{
+		"id": 2,
+		"numero_orden": "2",
+		"nombre": "Renata",
+		"apellido": "Cano",
+		"numeroDocumento": 71017912,
+		"cantidadRegistradas" : 1
+		},
+		{
+		"id": 3,
+		"numero_orden": "3",
+		"nombre": "Daniela",
+		"apellido": "Adorno",
+		"numeroDocumento": 58150601,
+		"cantidadRegistradas" : 2
+		},
+		{
+		"id": 4,
+		"numero_orden": "4",
+		"nombre": "Daniel",
+		"apellido": "Gallardo",
+		"numeroDocumento": 78719095,
+		"cantidadRegistradas" : 2
+		}
+	]
+}

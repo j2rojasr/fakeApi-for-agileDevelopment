@@ -1,0 +1,14 @@
+{
+	"especialidad_docente" : [
+		{
+			"id" : 1,
+			"codigo_docente" : 1,
+			"codigo_especialidad" : 1
+		},
+		{
+			"id" : 2,
+			"codigo_docente" : 1,
+			"codigo_especialidad" : 2
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+    "montoAmanecidas": [{
+        "id": 1,
+        "descripcion": "OBRA",
+        "monto12h": 100.00,
+        "monto24h": 200.00,
+        "estado": 1
+    },
+    {
+        "id": 2,
+        "descripcion": "SEGURIDAD",
+        "monto12h": 95.00,
+        "monto24h": 190.00,
+        "estado": 1
+    }]
+}

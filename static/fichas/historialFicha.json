@@ -1,0 +1,188 @@
+{
+  "historialFicha": [
+    {
+      "id": 1,
+      "codigo_personal": 1,
+      "personal": "Albert Cristina",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 2,
+      "codigo_personal": 2,
+      "personal": "Navarro Bonita",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 3,
+      "codigo_personal": 2,
+      "personal": "Navarro Bonita",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Anulado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 4,
+      "codigo_personal": 3,
+      "personal": "Madden Ortiz",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 5,
+      "codigo_personal": 4,
+      "personal": "Walker Gina",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 6,
+      "codigo_personal": 4,
+      "personal": "Walker Gina",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Registrado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 7,
+      "codigo_personal": 4,
+      "personal": "Walker Gina",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Aprobado por Jefe",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 8,
+      "codigo_personal": 4,
+      "personal": "Walker Gina",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Aprobado por presidencia",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 9,
+      "codigo_personal": 5,
+      "personal": "Mcgee Lakisha",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 10,
+      "codigo_personal": 5,
+      "personal": "Mcgee Lakisha",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Registrado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 11,
+      "codigo_personal": 5,
+      "personal": "Mcgee Lakisha",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Aprobado por Jefe",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 12,
+      "codigo_personal": 6,
+      "personal": "Gates Avery",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 13,
+      "codigo_personal": 6,
+      "personal": "Gates Avery",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Anulado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 14,
+      "codigo_personal": 7,
+      "personal": "Horn Bessie",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 15,
+      "codigo_personal": 7,
+      "personal": "Horn Bessie",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Registrado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 16,
+      "codigo_personal": 7,
+      "personal": "Horn Bessie",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Aprobado por Jefe",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 17,
+      "codigo_personal": 8,
+      "personal": "Erickson Davenport",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 18,
+      "codigo_personal": 8,
+      "personal": "Erickson Davenport",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Registrado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 19,
+      "codigo_personal": 8,
+      "personal": "Erickson Davenport",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Aprobado por Jefe",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 20,
+      "codigo_personal": 8,
+      "personal": "Erickson Davenport",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Aprobado por presidencia",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 21,
+      "codigo_personal": 9,
+      "personal": "Knight Walls",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 22,
+      "codigo_personal": 9,
+      "personal": "Knight Walls",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Registrado",
+      "usuario": "Luis Gangas Vasquez"
+    },
+    {
+      "id": 23,
+      "codigo_personal": 10,
+      "personal": "Cantu Maricela",
+      "fecha_hora_registro": "4/9/2018 11:26:39",
+      "estado": "Pendiente",
+      "usuario": "Luis Gangas Vasquez"
+    }
+  ]
+}

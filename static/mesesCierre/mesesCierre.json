@@ -1,0 +1,28 @@
+{
+	"mesesCierre": [
+		{
+			"id": 1,
+			"descripcion": "SETIEMBRE 2018"
+		},
+		{
+			"id": 2,
+			"descripcion": "AGOSTO 2018"
+		},
+		{
+			"id": 3,
+			"descripcion": "JULIO 2018"
+		},
+		{
+			"id": 4,
+			"descripcion": "JUNIO 2018"
+		},
+		{
+			"id": 5,
+			"descripcion": "MAYO 2018"
+		},
+		{
+			"id": 6,
+			"descripcion": "ABRIL 2018"
+		}
+	]
+}

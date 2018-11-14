@@ -1,0 +1,164 @@
+{
+	"docentePrimaria" : [
+		{
+			"fila" : 1,
+			"id" : 1,
+			"nombre" : "MARTINEZ CORAL, GUADALUPE MORENA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 4,
+			"sede_base" : "Salaverry"
+		},
+		{
+			"fila" : 2,
+			"id" : 2,
+			"nombre" : "QUISPE CENEPO, BERNY",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 10,
+			"sede_base" : "6 de agosto"
+		},
+		{
+			"fila" : 3,
+			"id" : 3,
+			"nombre" : "SOTO QUISPE, ROSARIO MARIA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 41,
+			"sede_base" : "Ate"
+		},
+		{
+			"fila" : 4,
+			"id" : 4,
+			"nombre" : "MARTINELLI MEJIA, JENNY LUZ",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 1,
+			"sede_base" : "Arequipa"
+		},
+		{
+			"fila" : 5,
+			"id" : 5,
+			"nombre" : "DAVALOS VARGAS, SORAIDA SIVIA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 4,
+			"sede_base" : "Salaverry"
+		},
+		{
+			"fila" : 6,
+			"id" : 6,
+			"nombre" : "PACHAS OLAYUNCA, GUADALUPE MORENA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 10,
+			"sede_base" : "6 de agosto"
+		},
+		{
+			"fila" : 7,
+			"id" : 7,
+			"nombre" : "DE LA CRUZ PALOMINO, SANDRA DOMITILA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 41,
+			"sede_base" : "Ate"
+		},
+		{
+			"fila" : 8,
+			"id" : 8,
+			"nombre" : "ALMENARA MAYURI, VICTOR FERRARI",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 1,
+			"sede_base" : "Arequipa"
+		},
+		{
+			"fila" : 9,
+			"id" : 9,
+			"nombre" : "MEDIA RAMIREZ, KARIN GINA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 4,
+			"sede_base" : "Salaverry"
+		},
+		{
+			"fila" : 10,
+			"id" : 10,
+			"nombre" : "SOTO ESPINOZA, MARIA LUISA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 2,
+			"sede_base" : "6 de agosto"
+		},
+		{
+			"fila" : 11,
+			"id" : 11,
+			"nombre" : "GAMARRA HILARIO, LIZ VICTORIA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 41,
+			"sede_base" : "Ate"
+		},
+		{
+			"fila" : 12,
+			"id" : 12,
+			"nombre" : "TITO LANDEO, MIRTHA DOMITILA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 1,
+			"sede_base" : "Arequipa"
+		},
+		{
+			"fila" : 13,
+			"id" : 13,
+			"nombre" : "ARENAS PRESENTACION, BERNARDA",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 4,
+			"sede_base" : "Salaverry"
+		},
+		{
+			"fila" : 14,
+			"id" : 14,
+			"nombre" : "ESPEJO FLORES, DIEGO ALEJANDRO",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 2,
+			"sede_base" : "6 de agosto"
+		},
+		{
+			"fila" : 15,
+			"id" : 15,
+			"nombre" : "MAMANI LLANQUE, MARLENY",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 41,
+			"sede_base" : "Ate"
+		},
+		{
+			"fila" : 16,
+			"id" : 16,
+			"nombre" : "TACZA FLORES, EDWIND CHRISTIAN",
+			"dni" : "11111111",
+			"correo" : "abc@abc.abc",
+			"telefono" : "987654321",
+			"codigo_sede" : 1,
+			"sede_base" : "Arequipa"
+		}
+	]
+}

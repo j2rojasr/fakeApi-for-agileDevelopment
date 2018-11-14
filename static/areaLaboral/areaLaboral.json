@@ -1,0 +1,24 @@
+{
+  "areaLaboral": [
+    {
+      "id": 1,
+      "nombre": "SISTEMAS"
+    },
+    {
+      "id": 2,
+      "nombre": "RECAUDACIÓN"
+    },
+    {
+      "id": 3,
+      "nombre": "ADMINISTRACIÓN"
+    },
+    {
+      "id": 4,
+      "nombre": "PRESIDENCIA"
+    },
+    {
+      "id": 5,
+      "nombre": "SECRETARÍA"
+    }
+  ]
+}

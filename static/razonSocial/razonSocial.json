@@ -1,0 +1,16 @@
+{
+  "razonSocial": [
+    {
+      "id": 1,
+      "nombre": "ACE SACO OLIVEROS"
+    },
+    {
+      "id": 2,
+      "nombre": "ACE SISTEMA HELICOIDAL"
+    },
+    {
+      "id": 3,
+      "nombre": "ACE APEIRON"
+    }
+  ]
+}

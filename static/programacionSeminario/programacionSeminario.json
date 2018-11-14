@@ -1,0 +1,20 @@
+{
+	"programacionSeminario": [
+		{
+			"id": 1,
+			"trabajador_id": 1,
+			"trabajador_documentoidentidad": "12345678",
+			"trabajador_apellidos": "GANGAS VASQUEZ",
+			"trabajador_nombres": "LUIS ALBERTO",
+			"tiposeminario_id": 1,
+			"tiposeminario_descripcion": "SEMINARIO",
+			"fecha_seminario": "15/09/2018",
+			"hora_inicio": "14:30",
+			"hora_fin": "15:30",
+			"grupoacademico_id": 4,
+			"grupoacademico_descripcion": "D",
+			"observacion": "SEMINARIO DE PLAN LECTOR DE 2DO AMABILIDAD.",
+			"estado": 0
+		}
+	]
+}

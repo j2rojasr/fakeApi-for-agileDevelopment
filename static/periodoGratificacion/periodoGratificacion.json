@@ -1,0 +1,40 @@
+{
+	"periodoGratificacion" : [
+		{
+			"id" : 1,
+			"descripcion" : "Julio 2017",
+			"año" : 2017,
+			"fechaDesde" : "16/12/2016",
+			"fechaHasta" : "15/07/2017",
+			"codigo_estado" : 2,
+			"estado" : "Finalizado"
+		},
+		{
+			"id" : 2,
+			"descripcion" : "Diciembre 2017",
+			"año" : 2017,
+			"fechaDesde" : "15/07/2017",
+			"fechaHasta" : "15/12/2017",
+			"codigo_estado" : 2,
+			"estado" : "Finalizado"
+		},
+		{
+			"id" : 3,
+			"descripcion" : "Julio 2018",
+			"año" : 2018,
+			"fechaDesde" : "16/07/2017",
+			"fechaHasta" : "15/07/2018",
+			"codigo_estado" : 2,
+			"estado" : "Finalizado"
+		},
+		{
+			"id" : 4,
+			"descripcion" : "Diciembre 2018",
+			"año" : 2018,
+			"fechaDesde" : "15/07/2018",
+			"fechaHasta" : "15/12/2018",
+			"codigo_estado" : 2,
+			"estado" : "Finalizado"
+		}
+	]
+}

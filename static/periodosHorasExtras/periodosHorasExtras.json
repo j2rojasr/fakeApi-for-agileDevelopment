@@ -1,0 +1,44 @@
+{
+  "periodosHorasExtras": [
+    {
+      "id": 1,
+      "numero_orden": 1,
+      "nombre": "03/09/2018 - 12/09/2018",
+      "fecha_apertura": "03/09/2018",
+      "fecha_cierre": "12/09/2018",
+      "estado_periodo": true
+    },
+    {
+      "id": 2,
+      "numero_orden": 2,
+      "nombre": "29/08/2018 - 02/09/2018",
+      "fecha_apertura": "29/08/2018",
+      "fecha_cierre": "02/09/2018",
+      "estado_periodo": true
+    },
+    {
+      "id": 3,
+      "numero_orden": 3,
+      "nombre": "20/08/2018 - 27/08/2018",
+      "fecha_apertura": "20/08/2018",
+      "fecha_cierre": "27/08/2018",
+      "estado_periodo": true
+    },
+    {
+      "id": 4,
+      "numero_orden": 4,
+      "nombre": "14/08/2018 - 19/08/2018",
+      "fecha_apertura": "14/08/2018",
+      "fecha_cierre": "19/08/2018",
+      "estado_periodo": true
+    },
+    {
+      "id": 5,
+      "numero_orden": 5,
+      "nombre": "06/08/2018 - 12/08/2018",
+      "fecha_apertura": "06/08/2018",
+      "fecha_cierre": "12/08/2018",
+      "estado_periodo": false
+    }
+  ]
+}

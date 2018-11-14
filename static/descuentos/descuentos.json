@@ -1,0 +1,69 @@
+{
+	"descuentos" : [
+		{
+			"id" : 1,
+			"descripcion" : "Fallecimiento de alguien",
+			"codigo_tipo_descuento" : 1,
+			"tipo_descuento" : "Colaboracion",
+			"fechaInicio" : "01/01/2018",
+			"fechaFin" : "01/01/2018",
+			"fechaPago" : "01/01/2018",
+			"autorizado" : "Wilmer",
+			"usuario" : "lgangas",
+			"codigo_estado" : 1,
+			"estado" : "En curso"
+		},
+		{
+			"id" : 2,
+			"descripcion" : "Entrega de uniforme personal",
+			"codigo_tipo_descuento" : 2,
+			"tipo_descuento" : "Uniforme",
+			"fechaInicio" : "01/01/2018",
+			"fechaFin" : "01/01/2018",
+			"fechaPago" : "01/01/2018",
+			"autorizado" : "Wilmer",
+			"usuario" : "lgangas",
+			"codigo_estado" : 2,
+			"estado" : "Pagado"
+		},
+		{
+			"id" : 3,
+			"descripcion" : "Pension de algo",
+			"codigo_tipo_descuento" : 3,
+			"tipo_descuento" : "Pension",
+			"fechaInicio" : "01/01/2018",
+			"fechaFin" : "01/01/2018",
+			"fechaPago" : "01/01/2018",
+			"autorizado" : "Wilmer",
+			"usuario" : "lgangas",
+			"codigo_estado" : 1,
+			"estado" : "En curso"
+		},
+		{
+			"id" : 4,
+			"descripcion" : "Pollada",
+			"codigo_tipo_descuento" : 1,
+			"tipo_descuento" : "Actividad",
+			"fechaInicio" : "01/01/2018",
+			"fechaFin" : "01/01/2018",
+			"fechaPago" : "01/01/2018",
+			"autorizado" : "Wilmer",
+			"usuario" : "lgangas",
+			"codigo_estado" : 3,
+			"estado" : "Finalizado"
+		},
+		{
+			"id" : 5,
+			"descripcion" : "Descuento de algo",
+			"codigo_tipo_descuento" : 1,
+			"tipo_descuento" : "Otros descuento",
+			"fechaInicio" : "01/01/2018",
+			"fechaFin" : "01/01/2018",
+			"fechaPago" : "01/01/2018",
+			"autorizado" : "Wilmer",
+			"usuario" : "lgangas",
+			"codigo_estado" : 3,
+			"estado" : "Finalizado"
+		}
+	]
+}

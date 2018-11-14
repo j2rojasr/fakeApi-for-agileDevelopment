@@ -1,0 +1,39 @@
+{
+	"horarios" : [
+		{
+			"fila" : 1,
+			"id" : 1,
+			"descripcion" : "Regular administratrivo",
+			"horaInicio" : "07:30",
+			"horaFin" : "17:30"
+		},
+		{
+			"fila" : 2,
+			"id" : 2,
+			"descripcion" : "Verano administratrivo",
+			"horaInicio" : "07:45",
+			"horaFin" : "17:00"
+		},
+		{
+			"fila" : 3,
+			"id" : 3,
+			"descripcion" : "Regular policia",
+			"horaInicio" : "07:00",
+			"horaFin" : "17:00"
+		},
+		{
+			"fila" : 4,
+			"id" : 4,
+			"descripcion" : "Verano policia",
+			"horaInicio" : "07:30",
+			"horaFin" : "17:30"
+		},
+		{
+			"fila" : 5,
+			"id" : 5,
+			"descripcion" : "Administrativo tarde",
+			"horaInicio" : "15:30",
+			"horaFin" : "19:30"
+		}
+	]
+}

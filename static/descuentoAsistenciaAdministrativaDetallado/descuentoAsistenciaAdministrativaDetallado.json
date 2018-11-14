@@ -1,0 +1,34 @@
+{
+	"descuentoAsistenciaAdministrativaDetallado":[
+		{
+			"id": 1,
+			"fecha_asistencia": "11/09/2018",
+			"marcacion_entrada": "07:41",
+			"descuento": 10,
+			"descripcion": "",
+			"sede_marcacion": "LINCE",
+			"tipo_registro": 1,
+			"estado": 1
+		},
+		{
+			"id": 2,
+			"fecha_asistencia": "12/09/2018",
+			"marcacion_entrada": "07:31",
+			"descuento": 0,
+			"descripcion": "",
+			"sede_marcacion": "LINCE",
+			"tipo_registro": 1,
+			"estado": 1
+		},
+		{
+			"id": 3,
+			"fecha_asistencia": "13/09/2018",
+			"marcacion_entrada": "08:03",
+			"descuento": 30,
+			"descripcion": "",
+			"sede_marcacion": "LINCE",
+			"tipo_registro": 0,
+			"estado": 1
+		}
+	]
+}

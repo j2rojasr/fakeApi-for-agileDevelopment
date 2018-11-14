@@ -1,0 +1,16 @@
+{
+	"frecuenciaRolPolicias": [
+		{
+			"codigo": 1,
+			"descripcion": "IMPAR"
+		},
+		{
+			"codigo": 2,
+			"descripcion": "PAR"
+		},
+		{
+			"codigo": 3,
+			"descripcion": "DIARIO"
+		}
+	]
+}

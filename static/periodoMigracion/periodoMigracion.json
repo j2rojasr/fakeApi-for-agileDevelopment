@@ -1,0 +1,44 @@
+{
+	"periodoMigracion" : [
+		{
+			"id" : 1,
+			"fechaApertura" : "01/01/2018",
+			"fechaCierre" : "08/01/2018",
+			"horas" : 50,
+			"codigo_tipo_pago" : 1,
+			"tipoPago" : "Pago",
+			"codigo_estado" : 2,
+			"estado" : "Migrado"
+		},
+		{
+			"id" : 2,
+			"fechaApertura" : "09/01/2018",
+			"fechaCierre" : "15/01/2018",
+			"horas" : 65,
+			"codigo_tipo_pago" : 1,
+			"tipoPago" : "Pago",
+			"codigo_estado" : 2,
+			"estado" : "Migrado"
+		},
+		{
+			"id" : 3,
+			"fechaApertura" : "22/01/2018",
+			"fechaCierre" : "29/01/2018",
+			"horas" : 70,
+			"codigo_tipo_pago" : 2,
+			"tipoPago" : "Reintegro",
+			"codigo_estado" : 2,
+			"estado" : "Migrado"
+		},
+		{
+			"id" : 4,
+			"fechaApertura" : "30/01/2018",
+			"fechaCierre" : "06/02/2018",
+			"horas" : 56,
+			"codigo_tipo_pago" : 2,
+			"tipoPago" : "Pago",
+			"codigo_estado" : 1,
+			"estado" : "No migrado"			
+		}
+	]
+}

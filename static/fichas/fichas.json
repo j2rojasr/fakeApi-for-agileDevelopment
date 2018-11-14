@@ -1,0 +1,114 @@
+{
+	"fichas" : [
+		{
+		    "id": 1,
+		    "documento": 89237513,
+		    "apellido": "Albert",
+		    "nombre": "Cristina ",
+		    "fecha_registro": "2017-07-30",
+		    "correo": "aidaacosta@metroz.com",
+		    "codigo_estado": 1,
+		    "estado" : "1. Pendiente",
+		    "codigo_cargo" : 5
+		},
+		  {
+		    "id": 2,
+		    "documento": 70461806,
+		    "apellido": "Navarro",
+		    "nombre": "Bonita ",
+		    "fecha_registro": "2014-04-28",
+		    "correo": "dillonharrison@gorganic.com",
+		    "codigo_estado": 5,
+		    "estado" : "Anulado",
+		    "codigo_cargo" : 2
+		  },
+  {
+    "id": 3,
+    "documento": 45645426,
+    "apellido": "Madden",
+    "nombre": "Ortiz ",
+    "fecha_registro": "2017-12-26",
+    "correo": "clementsgonzales@solgan.com",
+    "codigo_estado": 1,
+    "estado" : "1. Pendiente",
+		    "codigo_cargo" : 14
+  },
+  {
+    "id": 4,
+    "documento": 6223954,
+    "apellido": "Walker",
+    "nombre": "Gina ",
+    "fecha_registro": "2014-01-23",
+    "correo": "carterpate@cipromox.com",
+    "codigo_estado": 4,
+    "estado" : "4. Aprobado por presidencia",
+		    "codigo_cargo" : 16
+  },
+  {
+    "id": 5,
+    "documento": 43681538,
+    "apellido": "Mcgee",
+    "nombre": "Lakisha ",
+    "fecha_registro": "2017-09-07",
+    "correo": "eveward@austex.com",
+    "codigo_estado": 3,
+    "estado" : "3. Aprobado por Jefe",
+		    "codigo_cargo" : 1
+  },
+  {
+    "id": 6,
+    "documento": 12544161,
+    "apellido": "Gates",
+    "nombre": "Avery ",
+    "fecha_registro": "2014-08-30",
+    "correo": "hodgejimenez@maineland.com",
+    "codigo_estado": 5,
+    "estado" : "Anulado",
+		    "codigo_cargo" : 46
+  },
+  {
+    "id": 7,
+    "documento": 53898221,
+    "apellido": "Horn",
+    "nombre": "Bessie ",
+    "fecha_registro": "2015-03-26",
+    "correo": "lorenadudley@retrotex.com",
+    "codigo_estado": 3,
+    "estado" : "3. Aprobado por Jefe",
+		    "codigo_cargo" : 53
+  },
+  {
+    "id": 8,
+    "documento": 43641918,
+    "apellido": "Erickson",
+    "nombre": "Davenport ",
+    "fecha_registro": "2017-01-04",
+    "correo": "mildredrogers@momentia.com",
+    "codigo_estado": 4,
+    "estado" : "4. Aprobado por presidencia",
+		    "codigo_cargo" :33
+  },
+  {
+    "id": 9,
+    "documento": 20690314,
+    "apellido": "Knight",
+    "nombre": "Walls ",
+    "fecha_registro": "2015-01-03",
+    "correo": "staciecalhoun@enersave.com",
+    "codigo_estado": 2,
+    "estado" : "2. Registrado por personal",
+		    "codigo_cargo" : 23
+  },
+  {
+    "id": 10,
+    "documento": 575792,
+    "apellido": "Cantu",
+    "nombre": "Maricela ",
+    "fecha_registro": "2015-12-17",
+    "correo": "hardinghopper@vantage.com",
+    "codigo_estado": 1,
+    "estado" : "1. Pendiente",
+		    "codigo_cargo" : 60
+  }
+	]
+}

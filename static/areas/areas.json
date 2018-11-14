@@ -1,0 +1,10 @@
+{
+	"areas" : [
+		{"id":1,"descripcion":"SISTEMAS TIC"},
+		{"id":2,"descripcion":"DIRAGE"},
+		{"id":3,"descripcion":"LOGÍSTICA"},
+		{"id":4,"descripcion":"ADMINISTRACIÓN"},
+		{"id":5,"descripcion":"SECRETARÍA"},
+		{"id":6,"descripcion":"PRESIDENCIA"}
+	]
+}

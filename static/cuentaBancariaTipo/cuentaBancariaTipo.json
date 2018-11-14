@@ -1,0 +1,12 @@
+{
+  "cuentaBancariaTipo": [
+    {
+      "id": 1,
+      "nombre": "CUENTA SUELDO"
+    },
+    {
+      "id": 2,
+      "nombre": "CUENTA CTS"
+    }
+  ]
+}

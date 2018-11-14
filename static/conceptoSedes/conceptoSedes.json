@@ -1,0 +1,372 @@
+{
+    "conceptoSedes": [
+      {
+        "id": 1,
+        "sede_descripcion": "AREQUIPA",
+        "sede_id": 1,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 2,
+        "sede_descripcion": "MONTESSORI",
+        "sede_id": 2,
+        "montoamanecida_id": 1,
+        "montoamanecida_descripcion": "OBRA",
+        "estado": 1
+      },
+      {
+        "id": 3,
+        "sede_descripcion": "LINCE",
+        "sede_id": 3,
+        "montoamanecida_id": 2,
+        "montoamanecida_descripcion": "SEGURIDAD",
+        "estado": 1
+      },
+      {
+        "id": 4,
+        "sede_descripcion": "CALCA",
+        "sede_id": 4,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 5,
+        "sede_descripcion": "ROSALES",
+        "sede_id": 5,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 6,
+        "sede_descripcion": "ARANCIBIA",
+        "sede_id": 6,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 7,
+        "sede_descripcion": "BELISARIO",
+        "sede_id": 7,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 8,
+        "sede_descripcion": "6 DE AGOSTO",
+        "sede_id": 8,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 9,
+        "sede_descripcion": "CASONA",
+        "sede_id": 9,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 10,
+        "sede_descripcion": "JULIO BELLIDO",
+        "sede_id": 10,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 11,
+        "sede_descripcion": "SAN LUIS",
+        "sede_id": 11,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 12,
+        "sede_descripcion": "BERTONELLI",
+        "sede_id": 12,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 13,
+        "sede_descripcion": "BARRANCO",
+        "sede_id": 13,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 14,
+        "sede_descripcion": "ARENALES",
+        "sede_id": 14,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 15,
+        "sede_descripcion": "ADMINISTRACION",
+        "sede_id": 15,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 16,
+        "sede_descripcion": "GRAFICOS",
+        "sede_id": 16,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 17,
+        "sede_descripcion": "JHONSON",
+        "sede_id": 17,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 18,
+        "sede_descripcion": "LA VICTORIA",
+        "sede_id": 18,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 19,
+        "sede_descripcion": "EL AGUSTINO",
+        "sede_id": 19,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 20,
+        "sede_descripcion": "SALAMANCA",
+        "sede_id": 20,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 21,
+        "sede_descripcion": "BELLAVISTA",
+        "sede_id": 21,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 22,
+        "sede_descripcion": "PROFESORES POR HORAS",
+        "sede_id": 22,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 23,
+        "sede_descripcion": "PRONOE BELISARIO",
+        "sede_id": 23,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 24,
+        "sede_descripcion": "QUILCA",
+        "sede_id": 24,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 25,
+        "sede_descripcion": "ATE",
+        "sede_id": 25,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 26,
+        "sede_descripcion": "SORIA",
+        "sede_id": 26,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 27,
+        "sede_descripcion": "VILLA EL SALVADOR",
+        "sede_id": 27,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 28,
+        "sede_descripcion": "UNGER",
+        "sede_id": 28,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 29,
+        "sede_descripcion": "CIPRESES",
+        "sede_id": 29,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 30,
+        "sede_descripcion": "CANTA CALLAO",
+        "sede_id": 30,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 31,
+        "sede_descripcion": "PUEBLO LIBRE",
+        "sede_id": 31,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 32,
+        "sede_descripcion": "VILLA SOL",
+        "sede_id": 32,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 33,
+        "sede_descripcion": "COCALENOS",
+        "sede_id": 33,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 34,
+        "sede_descripcion": "LOGISTICA",
+        "sede_id": 34,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 35,
+        "sede_descripcion": "MONTERRICO",
+        "sede_id": 35,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 36,
+        "sede_descripcion": "SAN CARLOS",
+        "sede_id": 36,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 37,
+        "sede_descripcion": "MIGUEL IGLESIAS",
+        "sede_id": 37,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 38,
+        "sede_descripcion": "CANTA CALLAO 2",
+        "sede_id": 38,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 39,
+        "sede_descripcion": "ICA",
+        "sede_id": 39,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 40,
+        "sede_descripcion": "HUANCAYO",
+        "sede_id": 40,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 41,
+        "sede_descripcion": "CHACLACAYO",
+        "sede_id": 41,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 42,
+        "sede_descripcion": "CARABAYLLO",
+        "sede_id": 42,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 43,
+        "sede_descripcion": "CIPRESES 2",
+        "sede_id": 43,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 44,
+        "sede_descripcion": "SAN MIGUEL",
+        "sede_id": 44,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 45,
+        "sede_descripcion": "CUBA",
+        "sede_id": 45,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      },
+      {
+        "id": 46,
+        "sede_descripcion": "CHORRILLOS",
+        "sede_id": 46,
+        "montoamanecida_id": "",
+        "montoamanecida_descripcion": "",
+        "estado": ""
+      }
+    ]
+  }

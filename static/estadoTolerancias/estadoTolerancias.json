@@ -1,0 +1,20 @@
+{
+	"estadoTolerancias": [
+		{
+			"id": 1,
+			"descripcion": "ACTIVO"
+		},
+		{
+			"id": 2,
+			"descripcion": "ANULADO"
+		},
+		{
+			"id": 3,
+			"descripcion": "TERMINADO"
+		},
+		{
+			"id": 4,
+			"descripcion": "INACTIVO"
+		}
+	]
+}

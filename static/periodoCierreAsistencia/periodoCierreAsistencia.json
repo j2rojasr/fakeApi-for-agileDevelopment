@@ -1,0 +1,185 @@
+{
+	"periodoCierreAsistencia":[
+		{
+			"id": 1,
+			"tipopersonal_id": 1,
+			"tipopersonal_descripcion": "ADMINISTRATIVOS",
+			"mescierre_id": 1,
+			"mescierre_descripcion": "SETIEMBRE 2018",
+			"fecha_inicio": "22/08/2018",
+			"fecha_fin": "",
+			"estado": 1
+		},
+		{
+			"id": 2,
+			"tipopersonal_id": 1,
+			"tipopersonal_descripcion": "ADMINISTRATIVOS",
+			"mescierre_id": 2,
+			"mescierre_descripcion": "AGOSTO 2018",
+			"fecha_inicio": "16/07/2018",
+			"fecha_fin": "21/08/2018",
+			"estado": 0
+		},
+		{
+			"id": 3,
+			"tipopersonal_id": 1,
+			"tipopersonal_descripcion": "ADMINISTRATIVOS",
+			"mescierre_id": 3,
+			"mescierre_descripcion": "JULIO 2018",
+			"fecha_inicio": "21/06/2018",
+			"fecha_fin": "15/07/2018",
+			"estado": 0
+		},
+		{
+			"id": 4,
+			"tipopersonal_id": 1,
+			"tipopersonal_descripcion": "ADMINISTRATIVOS",
+			"mescierre_id": 4,
+			"mescierre_descripcion": "JUNIO 2018",
+			"fecha_inicio": "23/05/2018",
+			"fecha_fin": "20/06/2018",
+			"estado": 0
+		},
+		{
+			"id": 5,
+			"tipopersonal_id": 1,
+			"tipopersonal_descripcion": "ADMINISTRATIVOS",
+			"mescierre_id": 5,
+			"mescierre_descripcion": "MAYO 2018",
+			"fecha_inicio": "22/04/2018",
+			"fecha_fin": "22/05/2018",
+			"estado": 0
+		},
+		{
+			"id": 6,
+			"tipopersonal_id": 1,
+			"tipopersonal_descripcion": "ADMINISTRATIVOS",
+			"mescierre_id": 6,
+			"mescierre_descripcion": "ABRIL 2018",
+			"fecha_inicio": "21/03/2018",
+			"fecha_fin": "21/04/2018",
+			"estado": 0
+		},
+		{
+			"id": 7,
+			"tipopersonal_id": 2,
+			"tipopersonal_descripcion": "PROFESORES POR HORAS",
+			"mescierre_id": 1,
+			"mescierre_descripcion": "SETIEMBRE 2018",
+			"fecha_inicio": "22/08/2018",
+			"fecha_fin": "",
+			"estado": 1
+		},
+		{
+			"id": 8,
+			"tipopersonal_id": 2,
+			"tipopersonal_descripcion": "PROFESORES POR HORAS",
+			"mescierre_id": 2,
+			"mescierre_descripcion": "AGOSTO 2018",
+			"fecha_inicio": "16/07/2018",
+			"fecha_fin": "21/08/2018",
+			"estado": 0
+		},
+		{
+			"id": 9,
+			"tipopersonal_id": 2,
+			"tipopersonal_descripcion": "PROFESORES POR HORAS",
+			"mescierre_id": 3,
+			"mescierre_descripcion": "JULIO 2018",
+			"fecha_inicio": "21/06/2018",
+			"fecha_fin": "15/07/2018",
+			"estado": 0
+		},
+		{
+			"id": 10,
+			"tipopersonal_id": 2,
+			"tipopersonal_descripcion": "PROFESORES POR HORAS",
+			"mescierre_id": 4,
+			"mescierre_descripcion": "JUNIO 2018",
+			"fecha_inicio": "23/05/2018",
+			"fecha_fin": "20/06/2018",
+			"estado": 0
+		},
+		{
+			"id": 11,
+			"tipopersonal_id": 2,
+			"tipopersonal_descripcion": "PROFESORES POR HORAS",
+			"mescierre_id": 5,
+			"mescierre_descripcion": "MAYO 2018",
+			"fecha_inicio": "22/04/2018",
+			"fecha_fin": "22/05/2018",
+			"estado": 0
+		},
+		{
+			"id": 12,
+			"tipopersonal_id": 2,
+			"tipopersonal_descripcion": "PROFESORES POR HORAS",
+			"mescierre_id": 6,
+			"mescierre_descripcion": "ABRIL 2018",
+			"fecha_inicio": "21/03/2018",
+			"fecha_fin": "21/04/2018",
+			"estado": 0
+		},
+		{
+			"id": 13,
+			"tipopersonal_id": 3,
+			"tipopersonal_descripcion": "POLICIAS",
+			"mescierre_id": 1,
+			"mescierre_descripcion": "SETIEMBRE 2018",
+			"fecha_inicio": "22/08/2018",
+			"fecha_fin": "",
+			"estado": 1
+		},
+		{
+			"id": 14,
+			"tipopersonal_id": 3,
+			"tipopersonal_descripcion": "POLICIAS",
+			"mescierre_id": 2,
+			"mescierre_descripcion": "AGOSTO 2018",
+			"fecha_inicio": "16/07/2018",
+			"fecha_fin": "21/08/2018",
+			"estado": 0
+		},
+		{
+			"id": 15,
+			"tipopersonal_id": 3,
+			"tipopersonal_descripcion": "POLICIAS",
+			"mescierre_id": 3,
+			"mescierre_descripcion": "JULIO 2018",
+			"fecha_inicio": "21/06/2018",
+			"fecha_fin": "15/07/2018",
+			"estado": 0
+		},
+		{
+			"id": 16,
+			"tipopersonal_id": 3,
+			"tipopersonal_descripcion": "POLICIAS",
+			"mescierre_id": 4,
+			"mescierre_descripcion": "JUNIO 2018",
+			"fecha_inicio": "23/05/2018",
+			"fecha_fin": "20/06/2018",
+			"estado": 0
+		},
+		{
+			"id": 17,
+			"tipopersonal_id": 3,
+			"tipopersonal_descripcion": "POLICIAS",
+			"mescierre_id": 5,
+			"mescierre_descripcion": "MAYO 2018",
+			"fecha_inicio": "22/04/2018",
+			"fecha_fin": "22/05/2018",
+			"estado": 0
+		},
+		{
+			"id": 18,
+			"tipopersonal_id": 3,
+			"tipopersonal_descripcion": "POLICIAS",
+			"mescierre_id": 6,
+			"mescierre_descripcion": "ABRIL 2018",
+			"fecha_inicio": "21/03/2018",
+			"fecha_fin": "21/04/2018",
+			"estado": 0
+		}
+
+	]
+}

@@ -1,0 +1,284 @@
+{
+  "cargoLaboral": [
+    {
+      "id": 1,
+      "nombre": "1ER GRADO"
+    },
+    {
+      "id": 2,
+      "nombre": "2DO GRADO"
+    },
+    {
+      "id": 3,
+      "nombre": "ADMINISTRADOR"
+    },
+    {
+      "id": 4,
+      "nombre": "AJEDREZ"
+    },
+    {
+      "id": 5,
+      "nombre": "APOYO SOCIAL"
+    },
+    {
+      "id": 6,
+      "nombre": "ARITMETICA"
+    },
+    {
+      "id": 7,
+      "nombre": "ASESOR"
+    },
+    {
+      "id": 8,
+      "nombre": "ASISTENTA SOCIAL"
+    },
+    {
+      "id": 9,
+      "nombre": "AUXILIAR"
+    },
+    {
+      "id": 10,
+      "nombre": "BIBLIOTECA"
+    },
+    {
+      "id": 11,
+      "nombre": "CIENCIA Y AMBIENTE"
+    },
+    {
+      "id": 12,
+      "nombre": "COMUNICACION INTEGRAL"
+    },
+    {
+      "id": 13,
+      "nombre": "CAFETERIA"
+    },
+    {
+      "id": 14,
+      "nombre": "CARPINTERO"
+    },
+    {
+      "id": 15,
+      "nombre": "CERRAJERO"
+    },
+    {
+      "id": 16,
+      "nombre": "CHOFER"
+    },
+    {
+      "id": 17,
+      "nombre": "COBRANZAS"
+    },
+    {
+      "id": 18,
+      "nombre": "COMPAGINACION"
+    },
+    {
+      "id": 19,
+      "nombre": "COMPUTACION"
+    },
+    {
+      "id": 20,
+      "nombre": "COMPUTACION PRIMARIA"
+    },
+    {
+      "id": 21,
+      "nombre": "CONTADOR"
+    },
+    {
+      "id": 22,
+      "nombre": "COORDINADOR"
+    },
+    {
+      "id": 23,
+      "nombre": "COORDINADOR ACADEMICO"
+    },
+    {
+      "id": 24,
+      "nombre": "CORRECTOR DE PRACTICAS"
+    },
+    {
+      "id": 25,
+      "nombre": "DANZAS"
+    },
+    {
+      "id": 26,
+      "nombre": "DIAGRAMADOR"
+    },
+    {
+      "id": 27,
+      "nombre": "DIRECCION"
+    },
+    {
+      "id": 28,
+      "nombre": "DIRECCION DE EDICION"
+    },
+    {
+      "id": 29,
+      "nombre": "DIRECCION DE PRIMARIA"
+    },
+    {
+      "id": 30,
+      "nombre": "DIRECCION DE SECUNDARIA"
+    },
+    {
+      "id": 31,
+      "nombre": "DISEÑADOR"
+    },
+    {
+      "id": 32,
+      "nombre": "DOCUMENTACION"
+    },
+    {
+      "id": 33,
+      "nombre": "ED. FISICA"
+    },
+    {
+      "id": 34,
+      "nombre": "ELECTRICISTA"
+    },
+    {
+      "id": 35,
+      "nombre": "IMPRENTA"
+    },
+    {
+      "id": 36,
+      "nombre": "IMPULSADOR"
+    },
+    {
+      "id": 37,
+      "nombre": "INFORMES"
+    },
+    {
+      "id": 38,
+      "nombre": "INGENIERO INDUSTRIAL"
+    },
+    {
+      "id": 39,
+      "nombre": "INGLES"
+    },
+    {
+      "id": 40,
+      "nombre": "INICIAL"
+    },
+    {
+      "id": 41,
+      "nombre": "INTERNA-PSICOLOGA"
+    },
+    {
+      "id": 42,
+      "nombre": "LENGUAJE-MATEMATICA"
+    },
+    {
+      "id": 43,
+      "nombre": "LENGUAJE"
+    },
+    {
+      "id": 44,
+      "nombre": "LIBRERIA"
+    },
+    {
+      "id": 45,
+      "nombre": "LOGICO MATEMATICO"
+    },
+    {
+      "id": 46,
+      "nombre": "LOGISTICA"
+    },
+    {
+      "id": 47,
+      "nombre": "MANTENIMIENTO"
+    },
+    {
+      "id": 48,
+      "nombre": "MANTENIMIENTO-IMPRENTA"
+    },
+    {
+      "id": 49,
+      "nombre": "MAQUINISTA"
+    },
+    {
+      "id": 50,
+      "nombre": "MATEMATICA"
+    },
+    {
+      "id": 51,
+      "nombre": "PERSONAL SOCIAL"
+    },
+    {
+      "id": 52,
+      "nombre": "PINTOR"
+    },
+    {
+      "id": 53,
+      "nombre": "PROFESOR PRIMARIA"
+    },
+    {
+      "id": 54,
+      "nombre": "PROFESOR PRIMER GRADO"
+    },
+    {
+      "id": 55,
+      "nombre": "PROFESOR"
+    },
+    {
+      "id": 56,
+      "nombre": "PRONOE"
+    },
+    {
+      "id": 57,
+      "nombre": "PSICOLOGO ( A )"
+    },
+    {
+      "id": 58,
+      "nombre": "QUIMICA"
+    },
+    {
+      "id": 59,
+      "nombre": "RAZONAMIENTO MATEMATICO"
+    },
+    {
+      "id": 60,
+      "nombre": "RAZONAMIENTO VERBAL"
+    },
+    {
+      "id": 61,
+      "nombre": "REPARACIONES"
+    },
+    {
+      "id": 62,
+      "nombre": "SECRETARIA"
+    },
+    {
+      "id": 63,
+      "nombre": "SEGUNDO GRADO"
+    },
+    {
+      "id": 64,
+      "nombre": "SELECCION"
+    },
+    {
+      "id": 65,
+      "nombre": "SOPORTE TECNICO"
+    },
+    {
+      "id": 66,
+      "nombre": "SUB-DIRECCION"
+    },
+    {
+      "id": 67,
+      "nombre": "TESORERIA"
+    },
+    {
+      "id": 68,
+      "nombre": "TRAMITES"
+    },
+    {
+      "id": 69,
+      "nombre": "TRIGONOMETRIA"
+    },
+    {
+      "id": 70,
+      "nombre": "TUTOR"
+    }
+  ]
+}
